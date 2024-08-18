@@ -1,0 +1,220 @@
+{
+  "states": [
+    {
+      "state": "Andhra Pradesh",
+      "dances": {
+        "traditional": ["Kuchipudi"],
+        "folk": ["Lambadi", "Dhimsa"],
+        "classic": []
+      }
+    },
+    {
+      "state": "Assam",
+      "dances": {
+        "traditional": [],
+        "folk": ["Bihu", "Sattriya"],
+        "classic": []
+      }
+    },
+    {
+      "state": "Bihar",
+      "dances": {
+        "traditional": [],
+        "folk": ["Bidesia", "Jat-Jatin"],
+        "classic": []
+      }
+    },
+    {
+      "state": "Goa",
+      "dances": {
+        "traditional": [],
+        "folk": ["Dekhnni", "Fugdi"],
+        "classic": []
+      }
+    },
+    {
+      "state": "Gujarat",
+      "dances": {
+        "traditional": [],
+        "folk": ["Garba", "Dandiya Raas"],
+        "classic": []
+      }
+    },
+    {
+      "state": "Haryana",
+      "dances": {
+        "traditional": [],
+        "folk": ["Haryanvi", "Gidda"],
+        "classic": []
+      }
+    },
+    {
+      "state": "Himachal Pradesh",
+      "dances": {
+        "traditional": [],
+        "folk": ["Kinnauri", "Chamba", "Nati"],
+        "classic": []
+      }
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "dances": {
+        "traditional": [],
+        "folk": ["Rouf", "Bhand Pather"],
+        "classic": []
+      }
+    },
+    {
+      "state": "Jharkhand",
+      "dances": {
+        "traditional": [],
+        "folk": ["Chhau", "Sohrai"],
+        "classic": []
+      }
+    },
+    {
+      "state": "Karnataka",
+      "dances": {
+        "traditional": ["Yakshagana"],
+        "folk": ["Kamsale", "Sadir"],
+        "classic": ["Bharatanatyam"]
+      }
+    },
+    {
+      "state": "Kerala",
+      "dances": {
+        "traditional": ["Kathakali", "Mohiniyattam"],
+        "folk": ["Theyam", "Oppana"],
+        "classic": []
+      }
+    },
+    {
+      "state": "Madhya Pradesh",
+      "dances": {
+        "traditional": [],
+        "folk": ["Gond", "Pachra"],
+        "classic": []
+      }
+    },
+    {
+      "state": "Maharashtra",
+      "dances": {
+        "traditional": [],
+        "folk": ["Lavani", "Tamasha"],
+        "classic": []
+      }
+    },
+    {
+      "state": "Manipur",
+      "dances": {
+        "traditional": ["Manipuri"],
+        "folk": [],
+        "classic": []
+      }
+    },
+    {
+      "state": "Meghalaya",
+      "dances": {
+        "traditional": [],
+        "folk": ["Wangala", "Nongkrem"],
+        "classic": []
+      }
+    },
+    {
+      "state": "Mizoram",
+      "dances": {
+        "traditional": [],
+        "folk": ["Cheraw", "Khuallam"],
+        "classic": []
+      }
+    },
+    {
+      "state": "Nagaland",
+      "dances": {
+        "traditional": [],
+        "folk": ["Hornbill", "Aolep"],
+        "classic": []
+      }
+    },
+    {
+      "state": "Odisha",
+      "dances": {
+        "traditional": ["Odissi"],
+        "folk": ["Chhau", "Ghumura"],
+        "classic": []
+      }
+    },
+    {
+      "state": "Punjab",
+      "dances": {
+        "traditional": [],
+        "folk": ["Bhangra", "Gidda"],
+        "classic": []
+      }
+    },
+    {
+      "state": "Rajasthan",
+      "dances": {
+        "traditional": [],
+        "folk": ["Ghoomar", "Kalbeliya"],
+        "classic": []
+      }
+    },
+    {
+      "state": "Sikkim",
+      "dances": {
+        "traditional": [],
+        "folk": ["Bumchu", "Losoong"],
+        "classic": []
+      }
+    },
+    {
+      "state": "Tamil Nadu",
+      "dances": {
+        "traditional": ["Bharatanatyam"],
+        "folk": ["Karagattam", "Kummi"],
+        "classic": []
+      }
+    },
+    {
+      "state": "Telangana",
+      "dances": {
+        "traditional": [],
+        "folk": ["Perini", "Bathukamma"],
+        "classic": []
+      }
+    },
+    {
+      "state": "Tripura",
+      "dances": {
+        "traditional": [],
+        "folk": ["Hojagiri", "Bailongki"],
+        "classic": []
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "dances": {
+        "traditional": [],
+        "folk": ["Raslila", "Kathak"],
+        "classic": []
+      }
+    },
+    {
+      "state": "Uttarakhand",
+      "dances": {
+        "traditional": [],
+        "folk": ["Kailani", "Chholia"],
+        "classic": []
+      }
+    },
+    {
+      "state": "West Bengal",
+      "dances": {
+        "traditional": [],
+        "folk": ["Baul", "Chhau"],
+        "classic": []
+      }
+    }
+  ]
+}

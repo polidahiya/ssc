@@ -1,0 +1,122 @@
+{
+  "river_systems": [
+    {
+      "name": "The Ganges (Ganga)",
+      "origin": "Gangotri Glacier, Uttarakhand",
+      "course": "Flows from the Himalayas through northern India and Bangladesh to the Bay of Bengal",
+      "major_tributaries": {
+        "left": ["Ghaghara", "Kosi"],
+        "right": ["Yamuna", "Gandak"]
+      },
+      "dams": [
+        { "name": "Tehri Dam", "location": "Uttarakhand" },
+        { "name": "Farakka Barrage", "location": "West Bengal" },
+        { "name": "Bhilangana Dam", "location": "Uttarakhand" }
+      ]
+    },
+    {
+      "name": "The Yamuna",
+      "origin": "Yamunotri Glacier, Uttarakhand",
+      "course": "Flows parallel to the Ganges and joins it at Allahabad (Prayagraj)",
+      "major_tributaries": {
+        "left": ["Betwa", "Ken"],
+        "right": ["Chambal"]
+      },
+      "dams": [
+        { "name": "Yamuna Barrage", "location": "Uttar Pradesh" },
+        { "name": "Matatila Dam", "location": "Uttar Pradesh" }
+      ]
+    },
+    {
+      "name": "The Brahmaputra",
+      "origin": "Tibet (Yarlung Tsangpo)",
+      "course": "Flows through Assam and joins the Ganges in Bangladesh, forming the world's largest delta",
+      "major_tributaries": {
+        "left": ["Dibang", "Lohit"],
+        "right": ["Teesta"]
+      },
+      "dams": [
+        { "name": "Bhakra Nangal Dam", "location": "Himachal Pradesh/Punjab" },
+        { "name": "Subansiri Lower Dam", "location": "Arunachal Pradesh" }
+      ]
+    },
+    {
+      "name": "The Godavari",
+      "origin": "Nasik, Maharashtra",
+      "course": "Flows eastward across the Deccan Plateau to the Bay of Bengal",
+      "major_tributaries": {
+        "left": ["Purna"],
+        "right": ["Tapi", "Manjira"]
+      },
+      "dams": [
+        { "name": "Sri Ram Sagar Dam", "location": "Telangana" },
+        { "name": "Pochampad Dam", "location": "Telangana" }
+      ]
+    },
+    {
+      "name": "The Krishna",
+      "origin": "Mahabaleshwar, Maharashtra",
+      "course": "Flows eastward across the Deccan Plateau to the Bay of Bengal",
+      "major_tributaries": {
+        "left": ["Bhima"],
+        "right": ["Tungabhadra"]
+      },
+      "dams": [
+        { "name": "Almatti Dam", "location": "Karnataka" },
+        { "name": "Nagarjuna Sagar Dam", "location": "Telangana" }
+      ]
+    },
+    {
+      "name": "The Kaveri (Cauvery)",
+      "origin": "Talakaveri, Karnataka",
+      "course": "Flows southeast through Karnataka and Tamil Nadu to the Bay of Bengal",
+      "major_tributaries": {
+        "left": ["Hemavati"],
+        "right": ["Bhavani", "Kabini"]
+      },
+      "dams": [
+        { "name": "Krishnarajasagara Dam", "location": "Karnataka" },
+        { "name": "Mettur Dam", "location": "Tamil Nadu" }
+      ]
+    },
+    {
+      "name": "The Tapi (Tapti)",
+      "origin": "Satpura Range, Madhya Pradesh",
+      "course": "Flows westward into the Arabian Sea",
+      "major_tributaries": {
+        "left": ["Girna"],
+        "right": ["Purna"]
+      },
+      "dams": [
+        { "name": "Ukai Dam", "location": "Gujarat" },
+        { "name": "Sardar Patel Dam", "location": "Gujarat" }
+      ]
+    },
+    {
+      "name": "The Mahi",
+      "origin": "Madhya Pradesh",
+      "course": "Flows westward and empties into the Arabian Sea",
+      "major_tributaries": {
+        "left": [],
+        "right": ["Narmada"]
+      },
+      "dams": [
+        { "name": "Mahi Bajaj Sagar Dam", "location": "Gujarat" },
+        { "name": "Narmada Dam", "location": "Gujarat" }
+      ]
+    },
+    {
+      "name": "The Indus",
+      "origin": "Tibet",
+      "course": "Flows through northern India and Pakistan to the Arabian Sea",
+      "major_tributaries": {
+        "left": ["Jhelum", "Chenab"],
+        "right": ["Ravi", "Beas", "Sutlej"]
+      },
+      "dams": [
+        { "name": "Mangla Dam", "location": "Pakistan" },
+        { "name": "Tarbela Dam", "location": "Pakistan" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "organs": [
+    {
+      "name": "Brain",
+      "cells": [
+        {
+          "type": "Neuron",
+          "description": "Specialized cells that transmit nerve impulses.",
+          "function": "Transmit signals between different parts of the brain and the nervous system."
+        },
+        {
+          "type": "Glial Cell",
+          "description": "Supportive cells in the central nervous system.",
+          "function": "Support and protect neurons; maintain homeostasis."
+        },
+        {
+          "type": "Astrocyte",
+          "description": "Star-shaped glial cells in the brain and spinal cord.",
+          "function": "Provide nutrients to nervous tissue, maintain blood-brain barrier."
+        },
+        {
+          "type": "Oligodendrocyte",
+          "description": "Glial cells that produce the myelin sheath in the central nervous system.",
+          "function": "Insulate axons to increase the speed of nerve impulse transmission."
+        }
+      ]
+    },
+    {
+      "name": "Heart",
+      "cells": [
+        {
+          "type": "Cardiomyocyte",
+          "description": "Muscle cells in the heart that are responsible for contracting and enabling the heart to pump blood.",
+          "function": "Generate force to pump blood through the body."
+        },
+        {
+          "type": "Endothelial Cell",
+          "description": "Cells that line the blood vessels of the heart.",
+          "function": "Maintain vessel integrity, regulate blood flow, and prevent clotting."
+        },
+        {
+          "type": "Fibroblast",
+          "description": "Cells that produce collagen and other fibers.",
+          "function": "Provide structural framework for tissues and aid in tissue repair."
+        },
+        {
+          "type": "Pacemaker Cell",
+          "description": "Specialized cardiomyocytes that generate electrical impulses to control the heart rate.",
+          "function": "Initiate and regulate the heart's rhythmic contractions."
+        }
+      ]
+    },
+    {
+      "name": "Liver",
+      "cells": [
+        {
+          "type": "Hepatocyte",
+          "description": "Main functional cells of the liver.",
+          "function": "Perform various functions including detoxification, protein synthesis, and production of biochemicals necessary for digestion."
+        },
+        {
+          "type": "Kupffer Cell",
+          "description": "Specialized macrophages located in the liver.",
+          "function": "Involved in the breakdown of red blood cells and immune response."
+        },
+        {
+          "type": "Stellate Cell",
+          "description": "Cells in the liver that store vitamin A.",
+          "function": "Regulate blood flow in the liver and produce extracellular matrix in response to injury."
+        },
+        {
+          "type": "Cholangiocyte",
+          "description": "Epithelial cells of the bile duct.",
+          "function": "Modify bile composition and transport bile from the liver to the gallbladder and intestine."
+        }
+      ]
+    },
+    {
+      "name": "Lungs",
+      "cells": [
+        {
+          "type": "Type I Pneumocyte",
+          "description": "Thin epithelial cells that line the alveoli.",
+          "function": "Facilitate gas exchange between the air and blood."
+        },
+        {
+          "type": "Type II Pneumocyte",
+          "description": "Cuboidal cells in the alveoli that secrete surfactant.",
+          "function": "Reduce surface tension in the lungs and prevent alveolar collapse."
+        },
+        {
+          "type": "Alveolar Macrophage",
+          "description": "Immune cells in the alveoli.",
+          "function": "Engulf and digest foreign particles, bacteria, and dead cells."
+        },
+        {
+          "type": "Endothelial Cell",
+          "description": "Cells that line the blood vessels in the lungs.",
+          "function": "Facilitate gas exchange and maintain vascular integrity."
+        }
+      ]
+    },
+    {
+      "name": "Kidneys",
+      "cells": [
+        {
+          "type": "Podocyte",
+          "description": "Specialized cells in the Bowman's capsule of the nephron.",
+          "function": "Filter blood plasma in the kidneys to form urine."
+        },
+        {
+          "type": "Renal Tubule Cell",
+          "description": "Cells that line the renal tubules.",
+          "function": "Reabsorb water, ions, and nutrients from the filtrate and secrete waste products into the urine."
+        },
+        {
+          "type": "Juxtaglomerular Cell",
+          "description": "Cells in the kidney that release renin.",
+          "function": "Regulate blood pressure by controlling the renin-angiotensin-aldosterone system."
+        },
+        {
+          "type": "Mesangial Cell",
+          "description": "Cells around the glomerular capillaries.",
+          "function": "Provide structural support, regulate blood flow, and perform phagocytosis in the kidney."
+        }
+      ]
+    },
+    {
+      "name": "Skin",
+      "cells": [
+        {
+          "type": "Keratinocyte",
+          "description": "Primary cell type in the epidermis.",
+          "function": "Produce keratin, a protein that provides strength and waterproofing to the skin."
+        },
+        {
+          "type": "Melanocyte",
+          "description": "Cells that produce melanin in the skin.",
+          "function": "Protect against UV radiation by producing pigment."
+        },
+        {
+          "type": "Langerhans Cell",
+          "description": "Dendritic cells in the epidermis.",
+          "function": "Act as antigen-presenting cells and play a role in the immune response."
+        },
+        {
+          "type": "Merkel Cell",
+          "description": "Sensory cells in the skin.",
+          "function": "Detect light touch and provide sensory feedback."
+        }
+      ]
+    },
+    {
+      "name": "Stomach",
+      "cells": [
+        {
+          "type": "Parietal Cell",
+          "description": "Cells in the stomach lining that secrete hydrochloric acid.",
+          "function": "Aid in digestion by maintaining stomach pH and activating pepsinogen."
+        },
+        {
+          "type": "Chief Cell",
+          "description": "Cells in the stomach that secrete pepsinogen.",
+          "function": "Produce pepsinogen, which is converted to pepsin for protein digestion."
+        },
+        {
+          "type": "G Cell",
+          "description": "Cells in the stomach that secrete the hormone gastrin.",
+          "function": "Stimulate acid secretion and promote stomach motility."
+        },
+        {
+          "type": "Mucous Cell",
+          "description": "Cells that produce mucus in the stomach lining.",
+          "function": "Protect the stomach lining from acidic gastric juices."
+        }
+      ]
+    },
+    {
+      "name": "Intestines",
+      "cells": [
+        {
+          "type": "Enterocyte",
+          "description": "Absorptive cells in the lining of the small intestine.",
+          "function": "Absorb nutrients and electrolytes from digested food."
+        },
+        {
+          "type": "Goblet Cell",
+          "description": "Cells that secrete mucus in the intestinal lining.",
+          "function": "Protect and lubricate the intestinal lining."
+        },
+        {
+          "type": "Paneth Cell",
+          "description": "Cells in the small intestine that secrete antimicrobial peptides.",
+          "function": "Maintain gut flora and protect against pathogens."
+        },
+        {
+          "type": "Enteroendocrine Cell",
+          "description": "Hormone-secreting cells in the intestines.",
+          "function": "Regulate various digestive processes by secreting hormones."
+        }
+      ]
+    },
+    {
+      "name": "Pancreas",
+      "cells": [
+        {
+          "type": "Alpha Cell",
+          "description": "Cells in the pancreas that produce glucagon.",
+          "function": "Increase blood glucose levels by stimulating glucose release from the liver."
+        },
+        {
+          "type": "Beta Cell",
+          "description": "Cells in the pancreas that produce insulin.",
+          "function": "Lower blood glucose levels by facilitating glucose uptake into cells."
+        },
+        {
+          "type": "Delta Cell",
+          "description": "Cells in the pancreas that produce somatostatin.",
+          "function": "Regulate the release of insulin and glucagon, and inhibit digestive processes."
+        },
+        {
+          "type": "PP Cell",
+          "description": "Cells in the pancreas that produce pancreatic polypeptide.",
+          "function": "Regulate pancreatic secretions and digestive processes."
+        }
+      ]
+    },
+    {
+      "name": "Spleen",
+      "cells": [
+        {
+          "type": "White Pulp Cells",
+          "description": "Immune cells located in the white pulp of the spleen.",
+          "function": "Filter blood and mount immune responses against pathogens."
+        },
+        {
+          "type": "Red Pulp Cells",
+          "description": "Cells in the red pulp of the spleen involved in blood filtration.",
+          "function": "Remove old or damaged red blood cells and recycle iron."
+        },
+        {
+          "type": "Macrophages",
+          "description": "Large phagocytic cells located in the spleen.",
+          "function": "Engulf and digest pathogens and debris from the blood."
+        }
+      ]
+    },
+    {
+      "name": "Thymus",
+      "cells": [
+        {
+          "type": "Thymocyte",
+          "description": "Immature T cells in the thymus.",
+          "function": "Undergo maturation and selection to become functional T cells."
+        },
+        {
+          "type": "Epithelial Reticular Cell",
+          "description": "Cells that support the development and maturation of T cells.",
+          "function": "Provide a structural framework and produce signaling molecules essential for T cell maturation."
+        },
+        {
+          "type": "Dendritic Cell",
+          "description": "Antigen-presenting cells in the thymus.",
+          "function": "Present antigens to T cells to initiate immune responses."
+        }
+      ]
+    },
+    {
+      "name": "Bone",
+      "cells": [
+        {
+          "type": "Osteoblast",
+          "description": "Bone-forming cells.",
+          "function": "Synthesize and secrete the bone matrix and assist in bone mineralization."
+        },
+        {
+          "type": "Osteocyte",
+          "description": "Mature bone cells embedded within the bone matrix.",
+          "function": "Maintain bone tissue and respond to mechanical stress."
+        },
+        {
+          "type": "Osteoclast",
+          "description": "Bone-resorbing cells.",
+          "function": "Break down bone tissue and release minerals into the bloodstream."
+        }
+      ]
+    }
+  ]
+}

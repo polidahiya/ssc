@@ -1,0 +1,32 @@
+{
+  "states": [
+    { "name": "Andhra Pradesh", "creation_date": "1953-10-01" },
+    { "name": "Arunachal Pradesh", "creation_date": "1987-02-20" },
+    { "name": "Assam", "creation_date": "1947-08-15" },
+    { "name": "Bihar", "creation_date": "1947-08-15" },
+    { "name": "Chhattisgarh", "creation_date": "2000-11-01" },
+    { "name": "Goa", "creation_date": "1987-05-30" },
+    { "name": "Gujarat", "creation_date": "1960-05-01" },
+    { "name": "Haryana", "creation_date": "1966-11-01" },
+    { "name": "Himachal Pradesh", "creation_date": "1971-01-25" },
+    { "name": "Jharkhand", "creation_date": "2000-11-15" },
+    { "name": "Karnataka", "creation_date": "1956-11-01" },
+    { "name": "Kerala", "creation_date": "1956-11-01" },
+    { "name": "Madhya Pradesh", "creation_date": "1956-11-01" },
+    { "name": "Maharashtra", "creation_date": "1960-05-01" },
+    { "name": "Manipur", "creation_date": "1972-01-21" },
+    { "name": "Meghalaya", "creation_date": "1972-01-21" },
+    { "name": "Mizoram", "creation_date": "1987-02-20" },
+    { "name": "Nagaland", "creation_date": "1963-12-01" },
+    { "name": "Odisha", "creation_date": "1936-04-01" },
+    { "name": "Punjab", "creation_date": "1966-11-01" },
+    { "name": "Rajasthan", "creation_date": "1956-11-01" },
+    { "name": "Sikkim", "creation_date": "1975-05-16" },
+    { "name": "Tamil Nadu", "creation_date": "1967-01-14" },
+    { "name": "Telangana", "creation_date": "2014-06-02" },
+    { "name": "Tripura", "creation_date": "1972-01-21" },
+    { "name": "Uttar Pradesh", "creation_date": "1947-08-15" },
+    { "name": "Uttarakhand", "creation_date": "2000-11-09" },
+    { "name": "West Bengal", "creation_date": "1947-08-15" }
+  ]
+}

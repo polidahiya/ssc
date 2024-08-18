@@ -1,0 +1,120 @@
+{
+  "governors": [
+    {
+      "state": "Andhra Pradesh",
+      "governor": "S. Abdul Nazeer"
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "governor": "Lt. Gen. (Retd.) Kaiwalya Trivikram Parnaik"
+    },
+    {
+      "state": "Assam",
+      "governor": "Ganga Prasad"
+    },
+    {
+      "state": "Bihar",
+      "governor": "Rajendra Arlekar"
+    },
+    {
+      "state": "Chhattisgarh",
+      "governor": "Biswabhusan Harichandan"
+    },
+    {
+      "state": "Goa",
+      "governor": "P. S. Sreedharan Pillai"
+    },
+    {
+      "state": "Gujarat",
+      "governor": "Acharya Devvrat"
+    },
+    {
+      "state": "Haryana",
+      "governor": "Bandaru Dattatreya"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "governor": "Shri Shiv Pratap Shukla"
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "governor": "Lieutenant Governor Girish Chandra Murmu"
+    },
+    {
+      "state": "Jharkhand",
+      "governor": "C.P. Radhakrishnan"
+    },
+    {
+      "state": "Karnataka",
+      "governor": "Thawar Chand Gehlot"
+    },
+    {
+      "state": "Kerala",
+      "governor": "Arif Mohammed Khan"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "governor": "Mangal Pandey"
+    },
+    {
+      "state": "Maharashtra",
+      "governor": "Ramesh Bais"
+    },
+    {
+      "state": "Manipur",
+      "governor": "La. Ganesan"
+    },
+    {
+      "state": "Meghalaya",
+      "governor": "Phagu Chauhan"
+    },
+    {
+      "state": "Mizoram",
+      "governor": "Kumar R. Lalit"
+    },
+    {
+      "state": "Nagaland",
+      "governor": "La. Ganesan"
+    },
+    {
+      "state": "Odisha",
+      "governor": "Ganeshi Lal"
+    },
+    {
+      "state": "Punjab",
+      "governor": "Banwarilal Purohit"
+    },
+    {
+      "state": "Rajasthan",
+      "governor": "Kalraj Mishra"
+    },
+    {
+      "state": "Sikkim",
+      "governor": "Laxman Prasad Acharya"
+    },
+    {
+      "state": "Tamil Nadu",
+      "governor": "R. N. Ravi"
+    },
+    {
+      "state": "Telangana",
+      "governor": "Tamilisai Soundararajan"
+    },
+    {
+      "state": "Tripura",
+      "governor": "Satyadev Narayan Arya"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "governor": "Anandiben Patel"
+    },
+    {
+      "state": "Uttarakhand",
+      "governor": "Lieutenant General (Retd.) Gurmit Singh"
+    },
+    {
+      "state": "West Bengal",
+      "governor": "C.V. Ananda Bose"
+    }
+  ]
+}

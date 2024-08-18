@@ -1,0 +1,368 @@
+{
+  "states": [
+    {
+      "name": "Andhra Pradesh",
+      "notable_people": [
+        {
+          "name": "Nandamuri Taraka Rama Rao (NTR)",
+          "contribution": "Renowned actor and former Chief Minister of Andhra Pradesh."
+        },
+        {
+          "name": "Chandrababu Naidu",
+          "contribution": "Former Chief Minister of Andhra Pradesh, known for the development of Hyderabad as an IT hub."
+        }
+      ]
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "notable_people": [
+        {
+          "name": "Pema Khandu",
+          "contribution": "Current Chief Minister of Arunachal Pradesh."
+        },
+        {
+          "name": "Jarbom Gamlin",
+          "contribution": "Former Chief Minister of Arunachal Pradesh and prominent leader in the state’s politics."
+        }
+      ]
+    },
+    {
+      "name": "Assam",
+      "notable_people": [
+        {
+          "name": "Bhupen Hazarika",
+          "contribution": "Legendary singer, lyricist, and filmmaker, known for Assamese music and cinema."
+        },
+        {
+          "name": "Himanta Biswa Sarma",
+          "contribution": "Current Chief Minister of Assam and prominent political figure."
+        }
+      ]
+    },
+    {
+      "name": "Bihar",
+      "notable_people": [
+        {
+          "name": "Nitish Kumar",
+          "contribution": "Long-serving Chief Minister of Bihar, known for state development and social reforms."
+        },
+        {
+          "name": "Dr. Rajendra Prasad",
+          "contribution": "The first President of India, originally from Bihar."
+        }
+      ]
+    },
+    {
+      "name": "Chhattisgarh",
+      "notable_people": [
+        {
+          "name": "Raman Singh",
+          "contribution": "Former Chief Minister of Chhattisgarh, known for contributions to state development."
+        },
+        {
+          "name": "Bhupesh Baghel",
+          "contribution": "Current Chief Minister of Chhattisgarh."
+        }
+      ]
+    },
+    {
+      "name": "Goa",
+      "notable_people": [
+        {
+          "name": "Manohar Parrikar",
+          "contribution": "Former Chief Minister of Goa and Defence Minister of India, known for contributions to both state and national politics."
+        },
+        {
+          "name": "Pramod Sawant",
+          "contribution": "Current Chief Minister of Goa."
+        }
+      ]
+    },
+    {
+      "name": "Gujarat",
+      "notable_people": [
+        {
+          "name": "Narendra Modi",
+          "contribution": "Current Prime Minister of India and former Chief Minister of Gujarat."
+        },
+        {
+          "name": "Sardar Vallabhbhai Patel",
+          "contribution": "Key figure in India’s independence movement and first Deputy Prime Minister and Home Minister of India."
+        }
+      ]
+    },
+    {
+      "name": "Haryana",
+      "notable_people": [
+        {
+          "name": "Bhupinder Singh Hooda",
+          "contribution": "Former Chief Minister of Haryana."
+        },
+        {
+          "name": "Manohar Lal Khattar",
+          "contribution": "Current Chief Minister of Haryana."
+        }
+      ]
+    },
+    {
+      "name": "Himachal Pradesh",
+      "notable_people": [
+        {
+          "name": "Jai Ram Thakur",
+          "contribution": "Former Chief Minister of Himachal Pradesh."
+        },
+        {
+          "name": "Shiv Kumar Sharma",
+          "contribution": "Renowned classical musician, known for contributions to Indian music."
+        }
+      ]
+    },
+    {
+      "name": "Jharkhand",
+      "notable_people": [
+        {
+          "name": "Arjun Munda",
+          "contribution": "Former Chief Minister of Jharkhand and current Union Minister."
+        },
+        {
+          "name": "Hemant Soren",
+          "contribution": "Current Chief Minister of Jharkhand."
+        }
+      ]
+    },
+    {
+      "name": "Karnataka",
+      "notable_people": [
+        {
+          "name": "B.S. Yediyurappa",
+          "contribution": "Former Chief Minister of Karnataka."
+        },
+        {
+          "name": "S. M. Krishna",
+          "contribution": "Former Chief Minister of Karnataka and former Union Minister."
+        }
+      ]
+    },
+    {
+      "name": "Kerala",
+      "notable_people": [
+        {
+          "name": "Pinarayi Vijayan",
+          "contribution": "Current Chief Minister of Kerala."
+        },
+        {
+          "name": "K. R. Narayanan",
+          "contribution": "The 10th President of India, originally from Kerala."
+        }
+      ]
+    },
+    {
+      "name": "Madhya Pradesh",
+      "notable_people": [
+        {
+          "name": "Shivraj Singh Chouhan",
+          "contribution": "Current Chief Minister of Madhya Pradesh."
+        },
+        {
+          "name": "Atal Bihari Vajpayee",
+          "contribution": "Former Prime Minister of India, from Madhya Pradesh."
+        }
+      ]
+    },
+    {
+      "name": "Maharashtra",
+      "notable_people": [
+        {
+          "name": "Bal Thackeray",
+          "contribution": "Founder of the Shiv Sena party, influential in Maharashtra’s politics."
+        },
+        {
+          "name": "Uddhav Thackeray",
+          "contribution": "Former Chief Minister of Maharashtra."
+        }
+      ]
+    },
+    {
+      "name": "Manipur",
+      "notable_people": [
+        {
+          "name": "Okram Ibobi Singh",
+          "contribution": "Former Chief Minister of Manipur."
+        },
+        {
+          "name": "Bir Tikendrajit",
+          "contribution": "A revered leader in Manipur's history."
+        }
+      ]
+    },
+    {
+      "name": "Meghalaya",
+      "notable_people": [
+        {
+          "name": "Conrad Sangma",
+          "contribution": "Current Chief Minister of Meghalaya."
+        },
+        {
+          "name": "P.A. Sangma",
+          "contribution": "Former Speaker of the Lok Sabha and Chief Minister of Meghalaya."
+        }
+      ]
+    },
+    {
+      "name": "Mizoram",
+      "notable_people": [
+        {
+          "name": "Zoramthanga",
+          "contribution": "Current Chief Minister of Mizoram."
+        },
+        {
+          "name": "Laldenga",
+          "contribution": "Former Chief Minister of Mizoram and leader of the Mizo National Front."
+        }
+      ]
+    },
+    {
+      "name": "Nagaland",
+      "notable_people": [
+        {
+          "name": "Neiphiu Rio",
+          "contribution": "Current Chief Minister of Nagaland."
+        },
+        {
+          "name": "V.S. Atem",
+          "contribution": "Prominent Naga leader and social activist."
+        }
+      ]
+    },
+    {
+      "name": "Odisha",
+      "notable_people": [
+        {
+          "name": "Naveen Patnaik",
+          "contribution": "Long-serving Chief Minister of Odisha."
+        },
+        {
+          "name": "Sanjeev Sanyal",
+          "contribution": "Notable economist and writer from Odisha."
+        }
+      ]
+    },
+    {
+      "name": "Punjab",
+      "notable_people": [
+        {
+          "name": "Amarinder Singh",
+          "contribution": "Former Chief Minister of Punjab."
+        },
+        {
+          "name": "Captain Amrinder Singh",
+          "contribution": "Prominent leader and former Chief Minister of Punjab."
+        }
+      ]
+    },
+    {
+      "name": "Rajasthan",
+      "notable_people": [
+        {
+          "name": "Ashok Gehlot",
+          "contribution": "Current Chief Minister of Rajasthan."
+        },
+        {
+          "name": "Vasundhara Raje",
+          "contribution": "Former Chief Minister of Rajasthan."
+        }
+      ]
+    },
+    {
+      "name": "Sikkim",
+      "notable_people": [
+        {
+          "name": "Prem Singh Tamang (P.S. Golay)",
+          "contribution": "Current Chief Minister of Sikkim."
+        },
+        {
+          "name": "Chamling Pawan",
+          "contribution": "Former Chief Minister of Sikkim."
+        }
+      ]
+    },
+    {
+      "name": "Tamil Nadu",
+      "notable_people": [
+        {
+          "name": "M.K. Stalin",
+          "contribution": "Current Chief Minister of Tamil Nadu."
+        },
+        {
+          "name": "Jayalalithaa",
+          "contribution": "Former Chief Minister of Tamil Nadu and influential political figure."
+        }
+      ]
+    },
+    {
+      "name": "Telangana",
+      "notable_people": [
+        {
+          "name": "K. Chandrashekar Rao (KCR)",
+          "contribution": "Current Chief Minister of Telangana and founder of TRS."
+        },
+        {
+          "name": "K. T. Rama Rao",
+          "contribution": "Prominent politician and son of KCR."
+        }
+      ]
+    },
+    {
+      "name": "Tripura",
+      "notable_people": [
+        {
+          "name": "Manik Sarkar",
+          "contribution": "Former Chief Minister of Tripura."
+        },
+        {
+          "name": "Biplab Kumar Deb",
+          "contribution": "Former Chief Minister of Tripura."
+        }
+      ]
+    },
+    {
+      "name": "Uttar Pradesh",
+      "notable_people": [
+        {
+          "name": "Yogi Adityanath",
+          "contribution": "Current Chief Minister of Uttar Pradesh."
+        },
+        {
+          "name": "Akhilesh Yadav",
+          "contribution": "Former Chief Minister of Uttar Pradesh."
+        }
+      ]
+    },
+    {
+      "name": "Uttarakhand",
+      "notable_people": [
+        {
+          "name": "Pushkar Singh Dhami",
+          "contribution": "Current Chief Minister of Uttarakhand."
+        },
+        {
+          "name": "N. D. Tiwari",
+          "contribution": "Former Chief Minister of Uttarakhand."
+        }
+      ]
+    },
+    {
+      "name": "West Bengal",
+      "notable_people": [
+        {
+          "name": "Mamata Banerjee",
+          "contribution": "Current Chief Minister of West Bengal."
+        },
+        {
+          "name": "Subhas Chandra Bose",
+          "contribution": "Prominent leader in India’s freedom struggle, associated with West Bengal."
+        }
+      ]
+    }
+  ]
+}

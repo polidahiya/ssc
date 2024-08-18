@@ -1,0 +1,456 @@
+{
+  "topics": [
+    {
+      "name": "Work Done",
+      "description": "Work done is the energy transferred when a force moves an object over a distance.",
+      "formula": "Work = Force × Displacement × cos(θ)",
+      "unit": "Joule (J)",
+      "additional_info": {
+        "force_unit": "Newton (N)",
+        "displacement_unit": "Meter (m)",
+        "angle_unit": "Degrees (°) or Radians (rad)"
+      }
+    },
+    {
+      "name": "Force",
+      "description": "Force is a push or pull upon an object resulting from its interaction with another object.",
+      "formula": "Force = Mass × Acceleration",
+      "unit": "Newton (N)",
+      "additional_info": {
+        "mass_unit": "Kilogram (kg)",
+        "acceleration_unit": "Meter per second squared (m/s²)"
+      }
+    },
+    {
+      "name": "Energy",
+      "description": "Energy is the capacity to do work.",
+      "formula": "Energy = Work Done",
+      "unit": "Joule (J)",
+      "additional_info": {
+        "types": ["Kinetic Energy", "Potential Energy"]
+      }
+    },
+    {
+      "name": "Power",
+      "description": "Power is the rate at which work is done.",
+      "formula": "Power = Work Done / Time",
+      "unit": "Watt (W)",
+      "additional_info": {
+        "time_unit": "Second (s)"
+      }
+    },
+    {
+      "name": "Kinetic Energy",
+      "description": "Kinetic energy is the energy an object possesses due to its motion.",
+      "formula": "Kinetic Energy = 0.5 × Mass × Velocity²",
+      "unit": "Joule (J)",
+      "additional_info": {
+        "mass_unit": "Kilogram (kg)",
+        "velocity_unit": "Meter per second (m/s)"
+      }
+    },
+    {
+      "name": "Potential Energy",
+      "description": "Potential energy is the energy an object possesses due to its position in a force field, typically gravity.",
+      "formula": "Potential Energy = Mass × Gravity × Height",
+      "unit": "Joule (J)",
+      "additional_info": {
+        "mass_unit": "Kilogram (kg)",
+        "gravity_unit": "Meter per second squared (m/s²)",
+        "height_unit": "Meter (m)"
+      }
+    },
+    {
+      "name": "Momentum",
+      "description": "Momentum is the quantity of motion of a moving body, measured as a product of its mass and velocity.",
+      "formula": "Momentum = Mass × Velocity",
+      "unit": "Kilogram meter per second (kg·m/s)",
+      "additional_info": {
+        "mass_unit": "Kilogram (kg)",
+        "velocity_unit": "Meter per second (m/s)"
+      }
+    },
+    {
+      "name": "Impulse",
+      "description": "Impulse is the change in momentum of an object when a force is applied over time.",
+      "formula": "Impulse = Force × Time",
+      "unit": "Newton second (N·s)",
+      "additional_info": {
+        "force_unit": "Newton (N)",
+        "time_unit": "Second (s)"
+      }
+    },
+    {
+      "name": "Pressure",
+      "description": "Pressure is the force applied per unit area on the surface of an object.",
+      "formula": "Pressure = Force / Area",
+      "unit": "Pascal (Pa)",
+      "additional_info": {
+        "force_unit": "Newton (N)",
+        "area_unit": "Square meter (m²)"
+      }
+    },
+    {
+      "name": "Density",
+      "description": "Density is the mass of a substance per unit volume.",
+      "formula": "Density = Mass / Volume",
+      "unit": "Kilogram per cubic meter (kg/m³)",
+      "additional_info": {
+        "mass_unit": "Kilogram (kg)",
+        "volume_unit": "Cubic meter (m³)"
+      }
+    },
+    {
+      "name": "Acceleration",
+      "description": "Acceleration is the rate of change of velocity of an object.",
+      "formula": "Acceleration = Change in Velocity / Time",
+      "unit": "Meter per second squared (m/s²)",
+      "additional_info": {
+        "velocity_unit": "Meter per second (m/s)",
+        "time_unit": "Second (s)"
+      }
+    },
+    {
+      "name": "Newton's Second Law of Motion",
+      "description": "Newton's Second Law states that the force acting on an object is equal to the mass of that object times its acceleration.",
+      "formula": "Force = Mass × Acceleration",
+      "unit": "Newton (N)",
+      "additional_info": {
+        "mass_unit": "Kilogram (kg)",
+        "acceleration_unit": "Meter per second squared (m/s²)"
+      }
+    },
+    {
+      "name": "Gravitational Force",
+      "description": "Gravitational force is the attractive force between two masses.",
+      "formula": "F = G × (m₁ × m₂) / r²",
+      "unit": "Newton (N)",
+      "additional_info": {
+        "G_unit": "Newton meter squared per kilogram squared (N·m²/kg²)",
+        "mass_unit": "Kilogram (kg)",
+        "distance_unit": "Meter (m)"
+      }
+    },
+    {
+      "name": "Friction",
+      "description": "Friction is the force resisting the relative motion of two surfaces in contact.",
+      "formula": "Friction Force = Coefficient of Friction × Normal Force",
+      "unit": "Newton (N)",
+      "additional_info": {
+        "coefficient_of_friction_unit": "Dimensionless",
+        "normal_force_unit": "Newton (N)"
+      }
+    },
+    {
+      "name": "Torque",
+      "description": "Torque is a measure of the rotational force applied to an object.",
+      "formula": "Torque = Force × Lever Arm Distance × sin(θ)",
+      "unit": "Newton meter (N·m)",
+      "additional_info": {
+        "force_unit": "Newton (N)",
+        "distance_unit": "Meter (m)",
+        "angle_unit": "Degrees (°) or Radians (rad)"
+      }
+    },
+    {
+      "name": "Centripetal Force",
+      "description": "Centripetal force is the force that keeps an object moving in a circular path.",
+      "formula": "Centripetal Force = Mass × Velocity² / Radius",
+      "unit": "Newton (N)",
+      "additional_info": {
+        "mass_unit": "Kilogram (kg)",
+        "velocity_unit": "Meter per second (m/s)",
+        "radius_unit": "Meter (m)"
+      }
+    },
+    {
+      "name": "Wave Speed",
+      "description": "Wave speed is the speed at which a wave travels through a medium.",
+      "formula": "Wave Speed = Frequency × Wavelength",
+      "unit": "Meter per second (m/s)",
+      "additional_info": {
+        "frequency_unit": "Hertz (Hz)",
+        "wavelength_unit": "Meter (m)"
+      }
+    },
+    {
+      "name": "Ohm's Law",
+      "description": "Ohm's Law states that the current through a conductor between two points is directly proportional to the voltage across the two points.",
+      "formula": "V = I × R",
+      "unit": "Volt (V)",
+      "additional_info": {
+        "current_unit": "Ampere (A)",
+        "resistance_unit": "Ohm (Ω)"
+      }
+    },
+    {
+      "name": "Electric Power",
+      "description": "Electric power is the rate at which electrical energy is transferred by an electric circuit.",
+      "formula": "Power = Voltage × Current",
+      "unit": "Watt (W)",
+      "additional_info": {
+        "voltage_unit": "Volt (V)",
+        "current_unit": "Ampere (A)"
+      }
+    },
+    {
+      "name": "Hooke's Law",
+      "description": "Hooke's Law states that the force needed to extend or compress a spring by some distance is proportional to that distance.",
+      "formula": "Force = Spring Constant × Extension",
+      "unit": "Newton (N)",
+      "additional_info": {
+        "spring_constant_unit": "Newton per meter (N/m)",
+        "extension_unit": "Meter (m)"
+      }
+    },
+    {
+      "name": "Thermal Energy",
+      "description": "Thermal energy is the internal energy of an object due to the kinetic energy of its atoms or molecules.",
+      "formula": "Q = mcΔT",
+      "unit": "Joule (J)",
+      "additional_info": {
+        "mass_unit": "Kilogram (kg)",
+        "specific_heat_capacity_unit": "Joule per kilogram per degree Celsius (J/kg·°C)",
+        "temperature_change_unit": "Degree Celsius (°C)"
+      }
+    },
+    {
+      "name": "Angular Momentum",
+      "description": "Angular momentum is the rotational analog of linear momentum, representing the quantity of rotation of an object.",
+      "formula": "Angular Momentum = Moment of Inertia × Angular Velocity",
+      "unit": "Kilogram meter squared per second (kg·m²/s)",
+      "additional_info": {
+        "moment_of_inertia_unit": "Kilogram meter squared (kg·m²)",
+        "angular_velocity_unit": "Radian per second (rad/s)"
+      }
+    },
+    {
+      "name": "Thermodynamics - First Law",
+      "description": "The first law of thermodynamics states that energy cannot be created or destroyed, only transferred or converted from one form to another.",
+      "formula": "ΔU = Q - W",
+      "unit": "Joule (J)",
+      "additional_info": {
+        "internal_energy_change_unit": "Joule (J)",
+        "heat_added_unit": "Joule (J)",
+        "work_done_unit": "Joule (J)"
+      }
+    },
+    {
+      "name": "Thermodynamics - Second Law",
+      "description": "The second law of thermodynamics states that the total entropy of an isolated system can never decrease over time.",
+      "formula": "ΔS ≥ 0",
+      "unit": "Joule per kelvin (J/K)",
+      "additional_info": {
+        "entropy_change_unit": "Joule per kelvin (J/K)"
+      }
+    },
+    {
+      "name": "Electric Field",
+      "description": "An electric field is a region around a charged particle where a force would be exerted on other charged particles.",
+      "formula": "E = F / q",
+      "unit": "Newton per coulomb (N/C) or Volt per meter (V/m)",
+      "additional_info": {
+        "force_unit": "Newton (N)",
+        "charge_unit": "Coulomb (C)"
+      }
+    },
+    {
+      "name": "Magnetic Field",
+      "description": "A magnetic field is a field produced by moving electric charges, which exerts a force on other moving charges.",
+      "formula": "B = F / (q × v × sin(θ))",
+      "unit": "Tesla (T)",
+      "additional_info": {
+        "force_unit": "Newton (N)",
+        "charge_unit": "Coulomb (C)",
+        "velocity_unit": "Meter per second (m/s)",
+        "angle_unit": "Degrees (°) or Radians (rad)"
+      }
+    },
+    {
+      "name": "Capacitance",
+      "description": "Capacitance is the ability of a system to store an electric charge.",
+      "formula": "C = Q / V",
+      "unit": "Farad (F)",
+      "additional_info": {
+        "charge_unit": "Coulomb (C)",
+        "voltage_unit": "Volt (V)"
+      }
+    },
+    {
+      "name": "Inductance",
+      "description": "Inductance is the property of a conductor by which a change in current in the conductor induces a voltage in both the conductor itself and in any nearby conductors.",
+      "formula": "L = Φ / I",
+      "unit": "Henry (H)",
+      "additional_info": {
+        "magnetic_flux_unit": "Weber (Wb)",
+        "current_unit": "Ampere (A)"
+      }
+    },
+    {
+      "name": "Snell's Law",
+      "description": "Snell's Law describes the relationship between the angles of incidence and refraction when a wave passes from one medium to another.",
+      "formula": "n₁ sin(θ₁) = n₂ sin(θ₂)",
+      "unit": "Dimensionless",
+      "additional_info": {
+        "refractive_index_unit": "Dimensionless",
+        "angle_unit": "Degrees (°) or Radians (rad)"
+      }
+    },
+    {
+      "name": "Simple Harmonic Motion (SHM)",
+      "description": "Simple Harmonic Motion is a type of periodic motion where the restoring force is directly proportional to the displacement and acts in the direction opposite to that of displacement.",
+      "formula": "x(t) = A cos(ωt + φ)",
+      "unit": "Meter (m)",
+      "additional_info": {
+        "amplitude_unit": "Meter (m)",
+        "angular_frequency_unit": "Radian per second (rad/s)",
+        "phase_constant_unit": "Radian (rad)"
+      }
+    },
+    {
+      "name": "Wave-Particle Duality",
+      "description": "Wave-particle duality is the concept in quantum mechanics that every particle or quantum entity exhibits both wave and particle properties.",
+      "formula": "λ = h / p",
+      "unit": "Meter (m)",
+      "additional_info": {
+        "planck_constant_unit": "Joule second (J·s)",
+        "momentum_unit": "Kilogram meter per second (kg·m/s)"
+      }
+    },
+    {
+      "name": "Relativity - Time Dilation",
+      "description": "Time dilation is a difference in the elapsed time measured by two observers, due to a relative velocity between them or a difference in gravitational potential.",
+      "formula": "Δt' = Δt / √(1 - v²/c²)",
+      "unit": "Second (s)",
+      "additional_info": {
+        "time_unit": "Second (s)",
+        "velocity_unit": "Meter per second (m/s)",
+        "speed_of_light_unit": "Meter per second (m/s)"
+      }
+    },
+    {
+      "name": "Relativity - Length Contraction",
+      "description": "Length contraction is the phenomenon by which the length of an object moving at relativistic speeds is measured to be shorter than its proper length.",
+      "formula": "L = L₀ √(1 - v²/c²)",
+      "unit": "Meter (m)",
+      "additional_info": {
+        "proper_length_unit": "Meter (m)",
+        "velocity_unit": "Meter per second (m/s)",
+        "speed_of_light_unit": "Meter per second (m/s)"
+      }
+    },
+    {
+      "name": "Photoelectric Effect",
+      "description": "The photoelectric effect is the emission of electrons or other free carriers when light shines on a material.",
+      "formula": "E = hν - φ",
+      "unit": "Joule (J)",
+      "additional_info": {
+        "energy_unit": "Joule (J)",
+        "planck_constant_unit": "Joule second (J·s)",
+        "frequency_unit": "Hertz (Hz)",
+        "work_function_unit": "Joule (J)"
+      }
+    },
+    {
+      "name": "Doppler Effect",
+      "description": "The Doppler effect is the change in frequency or wavelength of a wave in relation to an observer moving relative to the wave source.",
+      "formula": "f' = f (v + v₀) / (v + vs)",
+      "unit": "Hertz (Hz)",
+      "additional_info": {
+        "frequency_unit": "Hertz (Hz)",
+        "speed_of_sound_unit": "Meter per second (m/s)",
+        "observer_velocity_unit": "Meter per second (m/s)",
+        "source_velocity_unit": "Meter per second (m/s)"
+      }
+    },
+    {
+      "name": "Entropy",
+      "description": "Entropy is a measure of the randomness or disorder of a system.",
+      "formula": "ΔS = Q / T",
+      "unit": "Joule per kelvin (J/K)",
+      "additional_info": {
+        "heat_unit": "Joule (J)",
+        "temperature_unit": "Kelvin (K)"
+      }
+    },
+    {
+      "name": "Quantum Mechanics - Heisenberg Uncertainty Principle",
+      "description": "The Heisenberg Uncertainty Principle states that it is impossible to simultaneously know the exact position and momentum of a particle.",
+      "formula": "Δx × Δp ≥ ħ/2",
+      "unit": "Joule second (J·s)",
+      "additional_info": {
+        "position_uncertainty_unit": "Meter (m)",
+        "momentum_uncertainty_unit": "Kilogram meter per second (kg·m/s)",
+        "reduced_planck_constant_unit": "Joule second (J·s)"
+      }
+    },
+    {
+      "name": "Schrödinger Equation",
+      "description": "The Schrödinger equation describes how the quantum state of a physical system changes with time.",
+      "formula": "iħ (∂ψ/∂t) = Ĥψ",
+      "unit": "Joule (J)",
+      "additional_info": {
+        "wave_function_unit": "Dimensionless",
+        "planck_constant_unit": "Joule second (J·s)",
+        "energy_unit": "Joule (J)"
+      }
+    },
+    {
+      "name": "Planck's Law",
+      "description": "Planck's Law describes the spectral density of electromagnetic radiation emitted by a black body in thermal equilibrium at a given temperature.",
+      "formula": "E = hν",
+      "unit": "Joule (J)",
+      "additional_info": {
+        "energy_unit": "Joule (J)",
+        "planck_constant_unit": "Joule second (J·s)",
+        "frequency_unit": "Hertz (Hz)"
+      }
+    },
+    {
+      "name": "Relativity - Mass-Energy Equivalence",
+      "description": "Mass-energy equivalence is the principle stating that mass can be converted into energy, encapsulated by Einstein's famous equation.",
+      "formula": "E = mc²",
+      "unit": "Joule (J)",
+      "additional_info": {
+        "energy_unit": "Joule (J)",
+        "mass_unit": "Kilogram (kg)",
+        "speed_of_light_unit": "Meter per second (m/s)"
+      }
+    },
+    {
+      "name": "Blackbody Radiation",
+      "description": "Blackbody radiation refers to the electromagnetic radiation emitted by a body in thermal equilibrium.",
+      "formula": "R(T) = σT⁴",
+      "unit": "Watt per square meter (W/m²)",
+      "additional_info": {
+        "radiation_unit": "Watt per square meter (W/m²)",
+        "stefan_boltzmann_constant_unit": "Watt per square meter per Kelvin to the fourth (W/m²·K⁴)",
+        "temperature_unit": "Kelvin (K)"
+      }
+    },
+    {
+      "name": "Fluid Dynamics - Bernoulli's Principle",
+      "description": "Bernoulli's Principle states that an increase in the speed of a fluid occurs simultaneously with a decrease in pressure or a decrease in the fluid's potential energy.",
+      "formula": "P + 0.5ρv² + ρgh = constant",
+      "unit": "Pascal (Pa)",
+      "additional_info": {
+        "pressure_unit": "Pascal (Pa)",
+        "density_unit": "Kilogram per cubic meter (kg/m³)",
+        "velocity_unit": "Meter per second (m/s)",
+        "gravitational_acceleration_unit": "Meter per second squared (m/s²)",
+        "height_unit": "Meter (m)"
+      }
+    },
+    {
+      "name": "Gauss's Law",
+      "description": "Gauss's Law relates the distribution of electric charge to the resulting electric field. It states that the electric flux through a closed surface is proportional to the charge enclosed by the surface.",
+      "formula": "∮E · dA = Q/ε₀",
+      "unit": "Volt meter (V·m)",
+      "additional_info": {
+        "electric_flux_unit": "Volt meter (V·m)",
+        "charge_unit": "Coulomb (C)",
+        "electric_constant_unit": "Farad per meter (F/m)"
+      }
+    }
+  ]
+}

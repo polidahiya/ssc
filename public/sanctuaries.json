@@ -1,0 +1,221 @@
+{
+  "sanctuaries": [
+    {
+      "name": "Jim Corbett National Park",
+      "location": "Nainital, Uttarakhand",
+      "famous_for": "Bengal Tigers, diverse wildlife",
+      "size": "1,284 sq km",
+      "year_established": "1936"
+    },
+    {
+      "name": "Ranthambore National Park",
+      "location": "Sawai Madhopur, Rajasthan",
+      "famous_for": "Royal Bengal Tigers, historic Ranthambore Fort",
+      "size": "392 sq km",
+      "year_established": "1955"
+    },
+    {
+      "name": "Kaziranga National Park",
+      "location": "Karbi Anglong, Assam",
+      "famous_for": "One-horned Rhinoceroses, rich birdlife",
+      "size": "1,032 sq km",
+      "year_established": "1905"
+    },
+    {
+      "name": "Periyar Wildlife Sanctuary",
+      "location": "Thekkady, Kerala",
+      "famous_for": "Elephants, Periyar Lake",
+      "size": "777 sq km",
+      "year_established": "1950"
+    },
+    {
+      "name": "Sundarbans National Park",
+      "location": "South 24 Parganas, West Bengal",
+      "famous_for": "Bengal Tigers, mangrove forests",
+      "size": "2,585 sq km",
+      "year_established": "1984"
+    },
+    {
+      "name": "Bandhavgarh National Park",
+      "location": "Umaria, Madhya Pradesh",
+      "famous_for": "High density of Bengal Tigers, ancient Bandhavgarh Fort",
+      "size": "448 sq km",
+      "year_established": "1968"
+    },
+    {
+      "name": "Keoladeo National Park",
+      "location": "Bharatpur, Rajasthan",
+      "famous_for": "Migratory birds, diverse avian species",
+      "size": "29 sq km",
+      "year_established": "1982"
+    },
+    {
+      "name": "Dudhwa National Park",
+      "location": "Lakhimpur Kheri, Uttar Pradesh",
+      "famous_for": "Swamp Deer, diverse flora and fauna",
+      "size": "1,284 sq km",
+      "year_established": "1958"
+    },
+    {
+      "name": "Gir National Park",
+      "location": "Junagadh, Gujarat",
+      "famous_for": "Asiatic Lions, diverse wildlife",
+      "size": "1,412 sq km",
+      "year_established": "1965"
+    },
+    {
+      "name": "Hemis National Park",
+      "location": "Leh, Ladakh",
+      "famous_for": "Snow Leopards, high-altitude wildlife",
+      "size": "4,400 sq km",
+      "year_established": "1981"
+    },
+    {
+      "name": "Rajasthan Wildlife Sanctuary",
+      "location": "Rajasthan",
+      "famous_for": "Diverse wildlife including Blackbucks and Tigers",
+      "size": "Varies by specific sanctuary",
+      "year_established": "Varies by specific sanctuary"
+    },
+    {
+      "name": "Manas National Park",
+      "location": "Baksa, Assam",
+      "famous_for": "Biodiversity, Manas River, endangered species",
+      "size": "950 sq km",
+      "year_established": "1928"
+    },
+    {
+      "name": "Pench National Park",
+      "location": "Seoni and Chhindwara, Madhya Pradesh",
+      "famous_for": "Bengal Tigers, diverse flora and fauna",
+      "size": "758 sq km",
+      "year_established": "1975"
+    },
+    {
+      "name": "Nanda Devi and Valley of Flowers National Parks",
+      "location": "Chamoli, Uttarakhand",
+      "famous_for": "Valley of Flowers, Nanda Devi Peak",
+      "size": "2,876 sq km",
+      "year_established": "1982"
+    },
+    {
+      "name": "Kanha National Park",
+      "location": "Mandla and Balaghat, Madhya Pradesh",
+      "famous_for": "Bengal Tigers, Barasingha (swamp deer)",
+      "size": "940 sq km",
+      "year_established": "1955"
+    },
+    {
+      "name": "Simlipal National Park",
+      "location": "Mayurbhanj, Odisha",
+      "famous_for": "Tiger Reserve, rich flora and fauna",
+      "size": "2,750 sq km",
+      "year_established": "1973"
+    },
+    {
+      "name": "Sariska Tiger Reserve",
+      "location": "Alwar, Rajasthan",
+      "famous_for": "Bengal Tigers, diverse wildlife",
+      "size": "881 sq km",
+      "year_established": "1955"
+    },
+    {
+      "name": "Wayanad Wildlife Sanctuary",
+      "location": "Wayanad, Kerala",
+      "famous_for": "Elephants, rich biodiversity",
+      "size": "1,131 sq km",
+      "year_established": "1973"
+    },
+    {
+      "name": "Bandipur National Park",
+      "location": "Chamarajanagar, Karnataka",
+      "famous_for": "Elephants, tigers, and other wildlife",
+      "size": "880 sq km",
+      "year_established": "1974"
+    },
+    {
+      "name": "Great Himalayan National Park",
+      "location": "Kullu, Himachal Pradesh",
+      "famous_for": "High-altitude biodiversity, unique flora and fauna",
+      "size": "1,171 sq km",
+      "year_established": "1984"
+    },
+    {
+      "name": "Jaldapara National Park",
+      "location": "Alipurduar, West Bengal",
+      "famous_for": "One-horned Rhinoceroses, diverse wildlife",
+      "size": "1,013 sq km",
+      "year_established": "1941"
+    },
+    {
+      "name": "Rajaji National Park",
+      "location": "Haridwar and Dehradun, Uttarakhand",
+      "famous_for": "Elephants, diverse wildlife",
+      "size": "820 sq km",
+      "year_established": "1983"
+    },
+    {
+      "name": "Kumarakom Bird Sanctuary",
+      "location": "Kumarakom, Kerala",
+      "famous_for": "Migratory birds, rich birdlife",
+      "size": "14 sq km",
+      "year_established": "1969"
+    },
+    {
+      "name": "Mukurthi National Park",
+      "location": "Nilgiris, Tamil Nadu",
+      "famous_for": "Endangered Nilgiri Tahr, high-altitude ecosystems",
+      "size": "79 sq km",
+      "year_established": "1982"
+    },
+    {
+      "name": "Chilika Lake",
+      "location": "Odisha",
+      "famous_for": "Largest brackish water lagoon, migratory birds",
+      "size": "1,100 sq km",
+      "year_established": "1982"
+    },
+    {
+      "name": "Pilibhit Tiger Reserve",
+      "location": "Pilibhit, Uttar Pradesh",
+      "famous_for": "Bengal Tigers, diverse flora and fauna",
+      "size": "1,007 sq km",
+      "year_established": "2008"
+    },
+    {
+      "name": "Sariska National Park",
+      "location": "Alwar, Rajasthan",
+      "famous_for": "Tigers, diverse wildlife",
+      "size": "881 sq km",
+      "year_established": "1955"
+    },
+    {
+      "name": "Dachigam National Park",
+      "location": "Srinagar, Jammu & Kashmir",
+      "famous_for": "Hangul deer, high-altitude wildlife",
+      "size": "141 sq km",
+      "year_established": "1981"
+    },
+    {
+      "name": "Nanda Devi National Park",
+      "location": "Chamoli, Uttarakhand",
+      "famous_for": "Nanda Devi Peak, diverse high-altitude wildlife",
+      "size": "630 sq km",
+      "year_established": "1982"
+    },
+    {
+      "name": "Bhitarkanika National Park",
+      "location": "Kendrapara, Odisha",
+      "famous_for": "Saltwater Crocodiles, mangrove forests",
+      "size": "650 sq km",
+      "year_established": "1998"
+    },
+    {
+      "name": "Dudhwa Tiger Reserve",
+      "location": "Lakhimpur Kheri, Uttar Pradesh",
+      "famous_for": "Swamp Deer, diverse flora and fauna",
+      "size": "1,284 sq km",
+      "year_established": "1977"
+    }
+  ]
+}

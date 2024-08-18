@@ -1,0 +1,125 @@
+{
+    "states_local_sports": [
+      {
+        "state": "Andhra Pradesh",
+        "famous_local_sport": "Kabaddi"
+      },
+      {
+        "state": "Arunachal Pradesh",
+        "famous_local_sport": "Archery"
+      },
+      {
+        "state": "Assam",
+        "famous_local_sport": "Bamboo Dance (Bihutuli)"
+      },
+      {
+        "state": "Bihar",
+        "famous_local_sport": "Kabbadi"
+      },
+      {
+        "state": "Chhattisgarh",
+        "famous_local_sport": "Gilli Danda"
+      },
+      {
+        "state": "Goa",
+        "famous_local_sport": "Football (Soccer)"
+      },
+      {
+        "state": "Gujarat",
+        "famous_local_sport": "Kutch Traditional Wrestling"
+      },
+      {
+        "state": "Haryana",
+        "famous_local_sport": "Wrestling (Kushti)"
+      },
+      {
+        "state": "Himachal Pradesh",
+        "famous_local_sport": "Cricket"
+      },
+      {
+        "state": "Jharkhand",
+        "famous_local_sport": "Kabaddi"
+      },
+      {
+        "state": "Karnataka",
+        "famous_local_sport": "Kalaripayattu"
+      },
+      {
+        "state": "Kerala",
+        "famous_local_sport": "Onam Boat Race"
+      },
+      {
+        "state": "Madhya Pradesh",
+        "famous_local_sport": "Kabaddi"
+      },
+      {
+        "state": "Maharashtra",
+        "famous_local_sport": "Kabbadi"
+      },
+      {
+        "state": "Manipur",
+        "famous_local_sport": "Manipuri Polo"
+      },
+      {
+        "state": "Meghalaya",
+        "famous_local_sport": "Archery"
+      },
+      {
+        "state": "Mizoram",
+        "famous_local_sport": "Bamboo Shoot Festival (Local Sports Events)"
+      },
+      {
+        "state": "Nagaland",
+        "famous_local_sport": "Naga Wrestling"
+      },
+      {
+        "state": "Odisha",
+        "famous_local_sport": "Kabaddi"
+      },
+      {
+        "state": "Punjab",
+        "famous_local_sport": "Field Hockey"
+      },
+      {
+        "state": "Rajasthan",
+        "famous_local_sport": "Camel Racing"
+      },
+      {
+        "state": "Sikkim",
+        "famous_local_sport": "Archery"
+      },
+      {
+        "state": "Tamil Nadu",
+        "famous_local_sport": "Silambam"
+      },
+      {
+        "state": "Telangana",
+        "famous_local_sport": "Kabaddi"
+      },
+      {
+        "state": "Tripura",
+        "famous_local_sport": "Traditional Wrestling"
+      },
+      {
+        "state": "Uttar Pradesh",
+        "famous_local_sport": "Wrestling (Kushti)"
+      },
+      {
+        "state": "Uttarakhand",
+        "famous_local_sport": "Cricket"
+      },
+      {
+        "state": "West Bengal",
+        "famous_local_sport": "Football (Soccer)"
+      },
+      {
+        "state": "Jammu and Kashmir",
+        "famous_local_sport": "Ice Hockey"
+      },
+      {
+        "state": "Ladakh",
+        "famous_local_sport": "Ice Hockey"
+      }
+    ]
+  }
+  

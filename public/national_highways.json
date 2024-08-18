@@ -1,0 +1,94 @@
+{
+  "highways": [
+    {
+      "highway": "National Highway 1 (NH 1)",
+      "length": "2,846 kilometers",
+      "starting_location": "Srinagar, Jammu and Kashmir",
+      "ending_location": "Delhi"
+    },
+    {
+      "highway": "National Highway 2 (NH 2)",
+      "length": "1,465 kilometers",
+      "starting_location": "Delhi",
+      "ending_location": "Kolkata, West Bengal"
+    },
+    {
+      "highway": "National Highway 3 (NH 3)",
+      "length": "372 kilometers",
+      "starting_location": "Dharampur, Himachal Pradesh",
+      "ending_location": "Indore, Madhya Pradesh"
+    },
+    {
+      "highway": "National Highway 4 (NH 4)",
+      "length": "1,248 kilometers",
+      "starting_location": "Mumbai, Maharashtra",
+      "ending_location": "Bangalore, Karnataka"
+    },
+    {
+      "highway": "National Highway 5 (NH 5)",
+      "length": "1,203 kilometers",
+      "starting_location": "Chennai, Tamil Nadu",
+      "ending_location": "Kolkata, West Bengal"
+    },
+    {
+      "highway": "National Highway 6 (NH 6)",
+      "length": "1,108 kilometers",
+      "starting_location": "Surat, Gujarat",
+      "ending_location": "Howrah, West Bengal"
+    },
+    {
+      "highway": "National Highway 7 (NH 7)",
+      "length": "2,316 kilometers",
+      "starting_location": "Varanasi, Uttar Pradesh",
+      "ending_location": "Kanyakumari, Tamil Nadu"
+    },
+    {
+      "highway": "National Highway 8 (NH 8)",
+      "length": "1,334 kilometers",
+      "starting_location": "Delhi",
+      "ending_location": "Mumbai, Maharashtra"
+    },
+    {
+      "highway": "National Highway 9 (NH 9)",
+      "length": "1,291 kilometers",
+      "starting_location": "Mumbai, Maharashtra",
+      "ending_location": "Nizampur, Andhra Pradesh"
+    },
+    {
+      "highway": "National Highway 10 (NH 10)",
+      "length": "1,061 kilometers",
+      "starting_location": "Agra, Uttar Pradesh",
+      "ending_location": "Phulbari, West Bengal"
+    },
+    {
+      "highway": "National Highway 12 (NH 12)",
+      "length": "770 kilometers",
+      "starting_location": "Jabalpur, Madhya Pradesh",
+      "ending_location": "Rajasthan"
+    },
+    {
+      "highway": "National Highway 19 (NH 19)",
+      "length": "1,486 kilometers",
+      "starting_location": "Delhi",
+      "ending_location": "Kolkata, West Bengal"
+    },
+    {
+      "highway": "National Highway 44 (NH 44)",
+      "length": "3,745 kilometers",
+      "starting_location": "Srinagar, Jammu and Kashmir",
+      "ending_location": "Kanyakumari, Tamil Nadu"
+    },
+    {
+      "highway": "National Highway 49 (NH 49)",
+      "length": "504 kilometers",
+      "starting_location": "Kollam, Kerala",
+      "ending_location": "Khandwa, Madhya Pradesh"
+    },
+    {
+      "highway": "National Highway 63 (NH 63)",
+      "length": "438 kilometers",
+      "starting_location": "Kolkata, West Bengal",
+      "ending_location": "Ranchi, Jharkhand"
+    }
+  ]
+}

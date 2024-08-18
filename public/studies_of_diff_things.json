@@ -1,0 +1,100 @@
+{
+  "types_of_studies": [
+    {
+      "name": "Case Study",
+      "description": "An in-depth examination of a single instance or event, such as a person, group, or organization, to explore its underlying principles or phenomena."
+    },
+    {
+      "name": "Cohort Study",
+      "description": "A longitudinal study that follows a group of individuals who share a common characteristic or experience over time to observe outcomes and associations."
+    },
+    {
+      "name": "Cross-Sectional Study",
+      "description": "A study that analyzes data collected from a population at a specific point in time, providing a snapshot of variables and their relationships."
+    },
+    {
+      "name": "Longitudinal Study",
+      "description": "A research design that involves repeated observations of the same subjects over a period of time to detect changes and developments."
+    },
+    {
+      "name": "Experimental Study",
+      "description": "A study where researchers manipulate one or more independent variables to observe the effect on dependent variables, often conducted in controlled environments."
+    },
+    {
+      "name": "Randomized Controlled Trial (RCT)",
+      "description": "An experimental study where participants are randomly assigned to either a treatment group or a control group to evaluate the effectiveness of an intervention."
+    },
+    {
+      "name": "Observational Study",
+      "description": "A study where researchers observe and record behavior or outcomes without manipulating variables, including case-control studies and cohort studies."
+    },
+    {
+      "name": "Survey Study",
+      "description": "A study that collects data from a sample of individuals through questionnaires or interviews to gather information on various topics."
+    },
+    {
+      "name": "Qualitative Study",
+      "description": "A study that explores phenomena through non-numerical data, such as interviews and observations, to understand experiences and perspectives."
+    },
+    {
+      "name": "Quantitative Study",
+      "description": "A study that uses numerical data and statistical methods to quantify variables and examine relationships between them."
+    },
+    {
+      "name": "Meta-Analysis",
+      "description": "A statistical technique that combines the results of multiple studies to identify patterns, discrepancies, or overall effects."
+    },
+    {
+      "name": "Systematic Review",
+      "description": "A comprehensive review of existing research on a specific topic, following a systematic method to identify, evaluate, and synthesize relevant studies."
+    },
+    {
+      "name": "Ethnographic Study",
+      "description": "A qualitative research method that involves the researcher immersing themselves in the study environment to observe and interact with participants in their natural setting."
+    },
+    {
+      "name": "Clinical Trial",
+      "description": "A type of experimental study conducted to evaluate the safety and efficacy of medical treatments, drugs, or interventions in human participants."
+    },
+    {
+      "name": "Field Study",
+      "description": "A research study conducted outside of a laboratory or controlled environment, often in natural settings, to observe phenomena in real-world contexts."
+    },
+    {
+      "name": "Case-Control Study",
+      "description": "A study where individuals with a specific condition (cases) are compared to those without the condition (controls) to identify factors associated with the condition."
+    },
+    {
+      "name": "Twin Study",
+      "description": "A study that examines the similarities and differences between twins to understand the influence of genetics versus environment on certain traits or conditions."
+    },
+    {
+      "name": "Retrospective Study",
+      "description": "A study that looks backward in time, usually using existing records, to examine exposures or outcomes that have already occurred."
+    },
+    {
+      "name": "Prospective Study",
+      "description": "A study that follows participants forward in time from a point of exposure or intervention to observe outcomes as they develop."
+    },
+    {
+      "name": "Delphi Study",
+      "description": "A method for forecasting and decision-making involving rounds of anonymous surveys or questionnaires to gather expert opinions and reach a consensus."
+    },
+    {
+      "name": "Action Research",
+      "description": "A participatory study that involves researchers working with participants to identify problems and develop solutions in real-time settings."
+    },
+    {
+      "name": "Historical Study",
+      "description": "A study that investigates past events or conditions to understand historical developments and their impacts."
+    },
+    {
+      "name": "Narrative Study",
+      "description": "A qualitative study that collects and analyzes personal stories or narratives to gain insights into individuals' experiences and meanings."
+    },
+    {
+      "name": "Longitudinal Case Study",
+      "description": "A type of case study that tracks changes in a single case or a few cases over an extended period to understand development or progression."
+    }
+  ]
+}

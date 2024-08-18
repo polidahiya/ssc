@@ -1,0 +1,130 @@
+{
+  "ministers": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister",
+      "departments": [
+        "Prime Minister's Office",
+        "Department of Personnel and Training"
+      ]
+    },
+    {
+      "name": "Amit Shah",
+      "position": "Home Minister",
+      "departments": ["Ministry of Home Affairs"]
+    },
+    {
+      "name": "Rajnath Singh",
+      "position": "Defence Minister",
+      "departments": ["Ministry of Defence"]
+    },
+    {
+      "name": "Nirmala Sitharaman",
+      "position": "Finance Minister",
+      "departments": ["Ministry of Finance", "Ministry of Corporate Affairs"]
+    },
+    {
+      "name": "S. Jaishankar",
+      "position": "External Affairs Minister",
+      "departments": ["Ministry of External Affairs"]
+    },
+    {
+      "name": "Prakash Javadekar",
+      "position": "Minister of Environment, Forest and Climate Change",
+      "departments": ["Ministry of Environment, Forest and Climate Change"]
+    },
+    {
+      "name": "Smriti Irani",
+      "position": "Minister of Women and Child Development",
+      "departments": ["Ministry of Women and Child Development"]
+    },
+    {
+      "name": "Ravi Shankar Prasad",
+      "position": "Minister of Law and Justice",
+      "departments": ["Ministry of Law and Justice"]
+    },
+    {
+      "name": "Piyush Goyal",
+      "position": "Minister of Commerce and Industry",
+      "departments": ["Ministry of Commerce and Industry"]
+    },
+    {
+      "name": "Dharmendra Pradhan",
+      "position": "Minister of Education",
+      "departments": ["Ministry of Education"]
+    },
+    {
+      "name": "Harsimrat Kaur Badal",
+      "position": "Minister of Food Processing Industries",
+      "departments": ["Ministry of Food Processing Industries"]
+    },
+    {
+      "name": "Jitendra Singh",
+      "position": "Minister of State for Science and Technology",
+      "departments": [
+        "Ministry of Science and Technology",
+        "Ministry of Earth Sciences"
+      ]
+    },
+    {
+      "name": "Nitin Gadkari",
+      "position": "Minister of Road Transport and Highways",
+      "departments": ["Ministry of Road Transport and Highways"]
+    },
+    {
+      "name": "Anurag Thakur",
+      "position": "Minister of Information and Broadcasting",
+      "departments": ["Ministry of Information and Broadcasting"]
+    },
+    {
+      "name": "Sarbananda Sonowal",
+      "position": "Minister of Ports, Shipping and Waterways",
+      "departments": ["Ministry of Ports, Shipping and Waterways"]
+    },
+    {
+      "name": "Rameswar Teli",
+      "position": "Minister of State for Labour and Employment",
+      "departments": ["Ministry of Labour and Employment"]
+    },
+    {
+      "name": "Ashwini Vaishnaw",
+      "position": "Minister of Railways, Communications, and Electronics and IT",
+      "departments": [
+        "Ministry of Railways",
+        "Ministry of Communications",
+        "Ministry of Electronics and IT"
+      ]
+    },
+    {
+      "name": "Bhupender Yadav",
+      "position": "Minister of Labour and Employment",
+      "departments": ["Ministry of Labour and Employment"]
+    },
+    {
+      "name": "Kiren Rijiju",
+      "position": "Minister of Law and Justice",
+      "departments": ["Ministry of Law and Justice"]
+    },
+    {
+      "name": "Gajendra Singh Shekhawat",
+      "position": "Minister of Jal Shakti",
+      "departments": ["Ministry of Jal Shakti"]
+    },
+    {
+      "name": "Mahendra Nath Pandey",
+      "position": "Minister of Skill Development and Entrepreneurship",
+      "departments": ["Ministry of Skill Development and Entrepreneurship"]
+    },
+    {
+      "name": "Mansukh Mandaviya",
+      "position": "Minister of Health and Family Welfare",
+      "departments": ["Ministry of Health and Family Welfare"]
+    },
+    {
+      "name": "Raj Kumar Ranjan Singh",
+      "position": "Minister of State for Education",
+      "departments": ["Ministry of Education"]
+    }
+  ],
+  "morelink": "https://www.india.gov.in/my-government/whos-who/council-ministers"
+}

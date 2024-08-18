@@ -1,0 +1,185 @@
+{
+    "highest_peaks": [
+      {
+        "state": "Andhra Pradesh",
+        "peak": "Papi Hills",
+        "location": "East Godavari District",
+        "height": "1,650 meters"
+      },
+      {
+        "state": "Arunachal Pradesh",
+        "peak": "Namcha Barwa",
+        "location": "Tawang District",
+        "height": "7,750 meters"
+      },
+      {
+        "state": "Assam",
+        "peak": "Kangto",
+        "location": "West Kameng District",
+        "height": "7,060 meters"
+      },
+      {
+        "state": "Bihar",
+        "peak": "Mount Everest",
+        "location": "No peak is higher than Mount Everest, located in neighboring Nepal.",
+        "height": "8,848 meters"
+      },
+      {
+        "state": "Chhattisgarh",
+        "peak": "Bastar Hills",
+        "location": "Bastar District",
+        "height": "1,200 meters"
+      },
+      {
+        "state": "Goa",
+        "peak": "Vagator Hill",
+        "location": "North Goa District",
+        "height": "250 meters"
+      },
+      {
+        "state": "Gujarat",
+        "peak": "Goribundar",
+        "location": "Kutch District",
+        "height": "1,200 meters"
+      },
+      {
+        "state": "Haryana",
+        "peak": "Mewat Hills",
+        "location": "Mewat District",
+        "height": "1,000 meters"
+      },
+      {
+        "state": "Himachal Pradesh",
+        "peak": "Reo Purgyil",
+        "location": "Kinnaur District",
+        "height": "6,816 meters"
+      },
+      {
+        "state": "Jharkhand",
+        "peak": "Parasnath Hill",
+        "location": "Giridih District",
+        "height": "1,365 meters"
+      },
+      {
+        "state": "Karnataka",
+        "peak": "Kumara Parvata",
+        "location": "Kodagu District",
+        "height": "1,712 meters"
+      },
+      {
+        "state": "Kerala",
+        "peak": "Anamudi",
+        "location": "Idukki District",
+        "height": "2,695 meters"
+      },
+      {
+        "state": "Madhya Pradesh",
+        "peak": "Satpura Range",
+        "location": "Pachmarhi",
+        "height": "1,350 meters"
+      },
+      {
+        "state": "Maharashtra",
+        "peak": "Kalsubai",
+        "location": "Ahmednagar District",
+        "height": "1,646 meters"
+      },
+      {
+        "state": "Manipur",
+        "peak": "Kangla Sha",
+        "location": "Tamenglong District",
+        "height": "3,050 meters"
+      },
+      {
+        "state": "Meghalaya",
+        "peak": "Mount Phan Nonglait",
+        "location": "Shillong District",
+        "height": "2,045 meters"
+      },
+      {
+        "state": "Mizoram",
+        "peak": "Mount Blue",
+        "location": "Mizoram",
+        "height": "2,210 meters"
+      },
+      {
+        "state": "Nagaland",
+        "peak": "Mount Saramati",
+        "location": "Kiphire District",
+        "height": "3,848 meters"
+      },
+      {
+        "state": "Odisha",
+        "peak": "Deomali",
+        "location": "Koraput District",
+        "height": "1,672 meters"
+      },
+      {
+        "state": "Punjab",
+        "peak": "Shivalik Hills",
+        "location": "Rupnagar District",
+        "height": "1,500 meters"
+      },
+      {
+        "state": "Rajasthan",
+        "peak": "Guru Shikhar",
+        "location": "Mount Abu",
+        "height": "1,722 meters"
+      },
+      {
+        "state": "Sikkim",
+        "peak": "Kanchenjunga",
+        "location": "North Sikkim",
+        "height": "8,586 meters"
+      },
+      {
+        "state": "Tamil Nadu",
+        "peak": "Doddabetta",
+        "location": "Nilgiris District",
+        "height": "2,637 meters"
+      },
+      {
+        "state": "Telangana",
+        "peak": "Bhagirathi Peak",
+        "location": "Adilabad District",
+        "height": "1,533 meters"
+      },
+      {
+        "state": "Tripura",
+        "peak": "Betling Shivalik",
+        "location": "Tripura",
+        "height": "880 meters"
+      },
+      {
+        "state": "Uttar Pradesh",
+        "peak": "Mount Everest",
+        "location": "No peak is higher than Mount Everest, located in neighboring Nepal.",
+        "height": "8,848 meters"
+      },
+      {
+        "state": "Uttarakhand",
+        "peak": "Nanda Devi",
+        "location": "Chamoli District",
+        "height": "7,816 meters"
+      },
+      {
+        "state": "West Bengal",
+        "peak": "Kanchenjunga",
+        "location": "Darjeeling District",
+        "height": "8,586 meters"
+      },
+      {
+        "state": "Jammu and Kashmir",
+        "peak": "Mount Kolahoi",
+        "location": "Anantnag District",
+        "height": "5,425 meters"
+      },
+      {
+        "state": "Ladakh",
+        "peak": "Saltoro Kangri",
+        "location": "Saltoro Range",
+        "height": "7,742 meters"
+      }
+    ]
+  }
+  

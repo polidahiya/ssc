@@ -1,0 +1,112 @@
+[
+  {
+    "sector": "oil_and_petroleum_products",
+    "exports": {
+      "description": "Refined petroleum products",
+      "rank": "Third"
+    },
+    "imports": {
+      "description": "Crude oil",
+      "rank": "Third"
+    }
+  },
+  {
+    "sector": "automobiles",
+    "exports": {
+      "description": "Passenger cars, two-wheelers, commercial vehicles",
+      "rank": "Fourth"
+    },
+    "imports": {
+      "description": "Automotive components, luxury vehicles",
+      "rank": "Fifth"
+    }
+  },
+  {
+    "sector": "textiles_and_garments",
+    "exports": {
+      "description": "Cotton textiles, garments, synthetic fabrics",
+      "rank": "Second"
+    },
+    "imports": {
+      "description": "Raw materials like synthetic fibers, technical textiles",
+      "rank": "Ninth"
+    }
+  },
+  {
+    "sector": "pharmaceuticals",
+    "exports": {
+      "description": "Generic medicines, pharmaceutical products",
+      "rank": "First"
+    },
+    "imports": {
+      "description": "Raw materials for drug manufacturing, advanced pharmaceutical technology",
+      "rank": "Tenth"
+    }
+  },
+  {
+    "sector": "jewelry_and_gems",
+    "exports": {
+      "description": "Cut and polished diamonds, gold jewelry, precious stones",
+      "rank": "First"
+    },
+    "imports": {
+      "description": "Rough diamonds, gold, precious metals",
+      "rank": "Second"
+    }
+  },
+  {
+    "sector": "agricultural_products",
+    "exports": {
+      "description": "Spices, tea, coffee, rice, fruits",
+      "rank": "Second"
+    },
+    "imports": {
+      "description": "Pulses, edible oils, certain food products",
+      "rank": "Fifth"
+    }
+  },
+  {
+    "sector": "electronics_and_electrical_equipment",
+    "exports": {
+      "description": "Electronic components, consumer electronics, electrical machinery",
+      "rank": "Fifth"
+    },
+    "imports": {
+      "description": "Electronic goods, integrated circuits, high-tech equipment",
+      "rank": "Fourth"
+    }
+  },
+  {
+    "sector": "chemical_products",
+    "exports": {
+      "description": "Organic and inorganic chemicals, petrochemicals",
+      "rank": "Third"
+    },
+    "imports": {
+      "description": "Raw chemicals, intermediates",
+      "rank": "Sixth"
+    }
+  },
+  {
+    "sector": "steel_and_metal_products",
+    "exports": {
+      "description": "Steel products, flat-rolled and long products, alloy steel",
+      "rank": "Third"
+    },
+    "imports": {
+      "description": "Certain types of steel, metal ores",
+      "rank": "Fourth"
+    }
+  },
+  {
+    "sector": "software_and_it_services",
+    "exports": {
+      "description": "IT services, software, consulting, development, outsourcing",
+      "rank": "First"
+    },
+    "imports": {
+      "description": "Hardware, technology components",
+      "rank": "Fifth"
+    }
+  }
+]

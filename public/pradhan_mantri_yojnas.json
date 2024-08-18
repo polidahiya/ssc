@@ -1,0 +1,65 @@
+{
+    "pradhan_mantri_yojanas": [
+      {
+        "scheme": "Pradhan Mantri Awas Yojana (PMAY)",
+        "objective": "To provide affordable housing to the urban poor.",
+        "key_features": "Financial assistance for constructing or buying a house.",
+        "release_date": "June 25, 2015"
+      },
+      {
+        "scheme": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+        "objective": "To ensure financial inclusion by providing every household with a bank account.",
+        "key_features": "Free bank accounts, insurance coverage, and access to credit.",
+        "release_date": "August 28, 2014"
+      },
+      {
+        "scheme": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+        "objective": "To provide free LPG connections to women from Below Poverty Line (BPL) households.",
+        "key_features": "Subsidized LPG connections to improve health and convenience.",
+        "release_date": "May 1, 2016"
+      },
+      {
+        "scheme": "Pradhan Mantri Swachh Bharat Abhiyan (PM SBA)",
+        "objective": "To improve sanitation and cleanliness across India.",
+        "key_features": "Construction of toilets, cleanliness drives, and waste management initiatives.",
+        "release_date": "October 2, 2014"
+      },
+      {
+        "scheme": "Pradhan Mantri Krishi Sinchai Yojana (PMKSY)",
+        "objective": "To enhance irrigation facilities for farmers.",
+        "key_features": "Improvement of irrigation infrastructure and water use efficiency.",
+        "release_date": "July 1, 2015"
+      },
+      {
+        "scheme": "Pradhan Mantri Mudra Yojana (PMMY)",
+        "objective": "To provide loans to small businesses and entrepreneurs.",
+        "key_features": "Loans without collateral to promote small-scale industries.",
+        "release_date": "April 8, 2015"
+      },
+      {
+        "scheme": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+        "objective": "To provide life insurance coverage to people aged 18-50.",
+        "key_features": "Low-cost life insurance with coverage of ₹2 lakhs.",
+        "release_date": "May 9, 2015"
+      },
+      {
+        "scheme": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+        "objective": "To offer accidental death and disability insurance.",
+        "key_features": "Low-cost insurance with coverage of ₹2 lakhs for accidental death or disability.",
+        "release_date": "May 9, 2015"
+      },
+      {
+        "scheme": "Pradhan Mantri Rojgar Protsahan Yojana (PMRPY)",
+        "objective": "To incentivize employers to create jobs for the youth.",
+        "key_features": "Government subsidies on EPF contributions for new employees.",
+        "release_date": "August 7, 2014"
+      },
+      {
+        "scheme": "Pradhan Mantri Vikash Yojana (PMVY)",
+        "objective": "To boost development in backward regions through special projects.",
+        "key_features": "Financial and infrastructural support for developmental activities.",
+        "release_date": "Not Applicable (scheme name may be mistaken, no specific scheme under this name)"
+      }
+    ]
+  }
+  

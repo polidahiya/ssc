@@ -1,0 +1,109 @@
+{
+  "mines": [
+    {
+      "mine": "Bachpan Coal Mine",
+      "location": "Jharkhand",
+      "produce": "Coal"
+    },
+    {
+      "mine": "Kolar Gold Fields",
+      "location": "Karnataka",
+      "produce": "Gold"
+    },
+    {
+      "mine": "Cuddapah Basin",
+      "location": "Andhra Pradesh",
+      "produce": "Barytes, Limestone"
+    },
+    {
+      "mine": "Bhubaneswar Mines",
+      "location": "Odisha",
+      "produce": "Iron Ore, Manganese"
+    },
+    {
+      "mine": "Rajasthan State Mines and Minerals Ltd.",
+      "location": "Rajasthan",
+      "produce": "Limestone, Rock Phosphate"
+    },
+    {
+      "mine": "Durgapur Steel Plant",
+      "location": "West Bengal",
+      "produce": "Iron Ore, Coal"
+    },
+    {
+      "mine": "Nabha Iron Ore Mine",
+      "location": "Punjab",
+      "produce": "Iron Ore"
+    },
+    {
+      "mine": "Hutti Gold Mines",
+      "location": "Karnataka",
+      "produce": "Gold"
+    },
+    {
+      "mine": "Jharia Coal Mine",
+      "location": "Jharkhand",
+      "produce": "Coal"
+    },
+    {
+      "mine": "Gadchiroli Coal Mine",
+      "location": "Maharashtra",
+      "produce": "Coal"
+    },
+    {
+      "mine": "Chhattisgarh Mines",
+      "location": "Chhattisgarh",
+      "produce": "Coal, Bauxite, Iron Ore"
+    },
+    {
+      "mine": "Gondwana Basin",
+      "location": "Madhya Pradesh",
+      "produce": "Coal"
+    },
+    {
+      "mine": "Ramagundam Coal Mine",
+      "location": "Telangana",
+      "produce": "Coal"
+    },
+    {
+      "mine": "Singrauli Coal Mine",
+      "location": "Madhya Pradesh",
+      "produce": "Coal"
+    },
+    {
+      "mine": "Tungabhadra Mines",
+      "location": "Karnataka",
+      "produce": "Limestone, Barytes"
+    },
+    {
+      "mine": "Gems and Jewelry Mines",
+      "location": "Madhya Pradesh",
+      "produce": "Diamonds"
+    },
+    {
+      "mine": "Panna Diamond Mine",
+      "location": "Madhya Pradesh",
+      "produce": "Diamonds"
+    },
+    {
+      "mine": "Rajmahal Coal Mine",
+      "location": "Jharkhand",
+      "produce": "Coal"
+    },
+    {
+      "mine": "Manganese Ore Mine",
+      "location": "Maharashtra",
+      "produce": "Manganese"
+    },
+    {
+      "mine": "Kudremukh Iron Ore Mine",
+      "location": "Karnataka",
+      "produce": "Iron Ore"
+    },
+    {
+      "mine": "Bokaro Steel Plant",
+      "location": "Jharkhand",
+      "produce": "Iron Ore, Coal"
+    }
+  ]
+}

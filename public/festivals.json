@@ -1,0 +1,120 @@
+{
+  "festivals": [
+    {
+      "state": "Andhra Pradesh",
+      "festivals": ["Sankranti", "Ugadi", "Dasara", "Diwali"]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "festivals": ["Losar", "Buddha Jayanti", "Mopin"]
+    },
+    {
+      "state": "Assam",
+      "festivals": ["Bihu", "Rongali Bihu", "Bohag Bihu", "Magh Bihu"]
+    },
+    {
+      "state": "Bihar",
+      "festivals": ["Chhath Puja", "Makar Sankranti", "Sama Chakeva", "Holi"]
+    },
+    {
+      "state": "Chhattisgarh",
+      "festivals": ["Hareli", "Bastar Dussehra", "Pongal", "Diwali"]
+    },
+    {
+      "state": "Goa",
+      "festivals": ["Carnival", "Shigmo", "Diwali", "Ganesh Chaturthi"]
+    },
+    {
+      "state": "Gujarat",
+      "festivals": ["Navratri", "Diwali", "Uttarayan", "Janmashtami"]
+    },
+    {
+      "state": "Haryana",
+      "festivals": ["Lohri", "Baisakhi", "Holi", "Diwali"]
+    },
+    {
+      "state": "Himachal Pradesh",
+      "festivals": ["Dussehra", "Lohri", "Basant Panchami", "Diwali"]
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "festivals": ["Eid", "Diwali", "Hemis", "Baisakhi"]
+    },
+    {
+      "state": "Jharkhand",
+      "festivals": ["Holi", "Durga Puja", "Chhath Puja", "Sohrai"]
+    },
+    {
+      "state": "Karnataka",
+      "festivals": ["Dasara", "Ugadi", "Ganesh Chaturthi", "Deepavali"]
+    },
+    {
+      "state": "Kerala",
+      "festivals": ["Onam", "Vishu", "Thrissur Pooram", "Navratri"]
+    },
+    {
+      "state": "Madhya Pradesh",
+      "festivals": ["Navratri", "Diwali", "Makar Sankranti", "Baisakhi"]
+    },
+    {
+      "state": "Maharashtra",
+      "festivals": ["Ganesh Chaturthi", "Diwali", "Gudi Padwa", "Dussehra"]
+    },
+    {
+      "state": "Manipur",
+      "festivals": ["Yaoshang", "Lai Haraoba", "Cheiraoba", "Diwali"]
+    },
+    {
+      "state": "Meghalaya",
+      "festivals": ["Bihu", "Cherry Blossom Festival", "Nongkrem", "Wangala"]
+    },
+    {
+      "state": "Mizoram",
+      "festivals": ["Chapchar Kut", "Pawl Kut", "Bikhu", "Christmas"]
+    },
+    {
+      "state": "Nagaland",
+      "festivals": ["Hornbill Festival", "Aolep", "Sekrenyi", "Tuluni"]
+    },
+    {
+      "state": "Odisha",
+      "festivals": ["Rath Yatra", "Durga Puja", "Diwali", "Makar Sankranti"]
+    },
+    {
+      "state": "Punjab",
+      "festivals": ["Lohri", "Baisakhi", "Diwali", "Holi"]
+    },
+    {
+      "state": "Rajasthan",
+      "festivals": ["Diwali", "Navratri", "Pushkar Fair", "Gangaur"]
+    },
+    {
+      "state": "Sikkim",
+      "festivals": ["Losar", "Buddha Jayanti", "Cha Bong", "Indrajatra"]
+    },
+    {
+      "state": "Tamil Nadu",
+      "festivals": ["Pongal", "Deepavali", "Navaratri", "Thai Pongal"]
+    },
+    {
+      "state": "Telangana",
+      "festivals": ["Bathukamma", "Sankranti", "Bonalu", "Dasara"]
+    },
+    {
+      "state": "Tripura",
+      "festivals": ["Kharchi", "Durga Puja", "Bishu", "Diwali"]
+    },
+    {
+      "state": "Uttar Pradesh",
+      "festivals": ["Holi", "Diwali", "Kumbh Mela", "Ram Navami"]
+    },
+    {
+      "state": "Uttarakhand",
+      "festivals": ["Kumbh Mela", "Ganga Dussehra", "Nanda Devi Fair", "Diwali"]
+    },
+    {
+      "state": "West Bengal",
+      "festivals": ["Durga Puja", "Kali Puja", "Poila Boishakh", "Diwali"]
+    }
+  ]
+}

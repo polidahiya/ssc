@@ -1,0 +1,89 @@
+{
+    "seaports": [
+      {
+        "port": "Mumbai Port",
+        "location": "Mumbai, Maharashtra",
+        "port_size": "Large",
+        "famous_for": "Major cargo port, commercial hub"
+      },
+      {
+        "port": "Jawaharlal Nehru Port (Nhava Sheva)",
+        "location": "Mumbai, Maharashtra",
+        "port_size": "Large",
+        "famous_for": "Largest container port in India"
+      },
+      {
+        "port": "Kandla Port",
+        "location": "Kandla, Gujarat",
+        "port_size": "Large",
+        "famous_for": "Major port for dry cargo, key to the development of the Kutch region"
+      },
+      {
+        "port": "Chennai Port",
+        "location": "Chennai, Tamil Nadu",
+        "port_size": "Large",
+        "famous_for": "Handling a significant amount of cargo and passenger traffic"
+      },
+      {
+        "port": "Kolkata Port",
+        "location": "Kolkata, West Bengal",
+        "port_size": "Large",
+        "famous_for": "Major port on the east coast, serving the northern and eastern parts of India"
+      },
+      {
+        "port": "Visakhapatnam Port",
+        "location": "Visakhapatnam, Andhra Pradesh",
+        "port_size": "Large",
+        "famous_for": "Handling bulk cargo, iron ore, and coal"
+      },
+      {
+        "port": "Cochin Port",
+        "location": "Cochin, Kerala",
+        "port_size": "Medium",
+        "famous_for": "Handling container cargo, cruise ships, and major transshipment port"
+      },
+      {
+        "port": "Mangalore Port",
+        "location": "Mangalore, Karnataka",
+        "port_size": "Medium",
+        "famous_for": "Major port for agricultural and industrial products, particularly iron ore"
+      },
+      {
+        "port": "Ennore Port",
+        "location": "Ennore, Tamil Nadu",
+        "port_size": "Medium",
+        "famous_for": "Handling bulk cargo, coal, and cargo related to the power industry"
+      },
+      {
+        "port": "Diu Port",
+        "location": "Diu, Daman and Diu",
+        "port_size": "Small",
+        "famous_for": "Small port handling limited cargo, known for its strategic location"
+      },
+      {
+        "port": "Port Blair Port",
+        "location": "Port Blair, Andaman and Nicobar Islands",
+        "port_size": "Small",
+        "famous_for": "Serving the Andaman and Nicobar Islands, crucial for defense and tourism"
+      },
+      {
+        "port": "Hazira Port",
+        "location": "Hazira, Gujarat",
+        "port_size": "Medium",
+        "famous_for": "Handling bulk cargo, particularly industrial and chemical products"
+      },
+      {
+        "port": "Mundra Port",
+        "location": "Mundra, Gujarat",
+        "port_size": "Large",
+        "famous_for": "Handling large volumes of container cargo, one of the fastest-growing ports"
+      },
+      {
+        "port": "Sikka Port",
+        "location": "Sikka, Gujarat",
+        "port_size": "Medium",
+        "famous_for": "Handling crude oil and petroleum products"
+      }
+    ]
+  }
+  

@@ -1,0 +1,53 @@
+{
+    "lakes": [
+      {
+        "name": "Vembanad",
+        "location": "Kerala",
+        "area_km2": 2300,
+        "known_for": "The longest lake in India, Vembanad is renowned for its backwaters and houseboat cruises, as well as its ecological diversity."
+      },
+      {
+        "name": "Sambhar Lake",
+        "location": "Rajasthan",
+        "area_km2": 2300,
+        "known_for": "The largest saltwater lake in India, known for its salt production and as a bird sanctuary for migratory species."
+      },
+      {
+        "name": "Chilika Lake",
+        "location": "Odisha",
+        "area_km2": 1100,
+        "known_for": "The largest brackish water lagoon in India, renowned for its bird sanctuary, particularly during migration seasons."
+      },
+      {
+        "name": "Wular Lake",
+        "location": "Jammu and Kashmir",
+        "area_km2": 189,
+        "known_for": "One of the largest freshwater lakes in India, it plays a crucial role in flood control and fishery resources in the region."
+      },
+      {
+        "name": "Kolleru Lake",
+        "location": "Andhra Pradesh",
+        "area_km2": 145,
+        "known_for": "A large freshwater lake known for its role as a bird sanctuary and its diverse wildlife, particularly migratory birds."
+      },
+      {
+        "name": "Dal Lake",
+        "location": "Jammu and Kashmir",
+        "area_km2": 22,
+        "known_for": "Famous for its houseboats and shikaras (wooden boats), it is a major tourist attraction and an important part of the Srinagar landscape."
+      },
+      {
+        "name": "Nainital Lake",
+        "location": "Uttarakhand",
+        "area_km2": 0.49,
+        "known_for": "A picturesque lake located in the Nainital hill station, known for its scenic beauty and as a popular tourist destination."
+      },
+      {
+        "name": "Pukhrayan Lake",
+        "location": "Uttar Pradesh",
+        "area_km2": 0.12,
+        "known_for": "A smaller lake known for its local significance and natural beauty."
+      }
+    ]
+  }
+  

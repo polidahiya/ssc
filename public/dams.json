@@ -1,0 +1,164 @@
+{
+  "dams": [
+    {
+      "name": "Bhakra Dam",
+      "location": "Bhakra, Himachal Pradesh",
+      "state": "Himachal Pradesh",
+      "river": "Satluj",
+      "date_of_construction": "1963",
+      "height": "225.5 meters"
+    },
+    {
+      "name": "Sardar Patel Dam",
+      "location": "Kevadia, Gujarat",
+      "state": "Gujarat",
+      "river": "Narmada",
+      "date_of_construction": "2017",
+      "height": "163 meters"
+    },
+    {
+      "name": "Damodar Valley Dam",
+      "location": "Durgapur, West Bengal",
+      "state": "West Bengal",
+      "river": "Damodar",
+      "date_of_construction": "1955",
+      "height": "16 meters"
+    },
+    {
+      "name": "Tehri Dam",
+      "location": "Tehri, Uttarakhand",
+      "state": "Uttarakhand",
+      "river": "Bhagirathi",
+      "date_of_construction": "2006",
+      "height": "260.5 meters"
+    },
+    {
+      "name": "Nagarjuna Sagar Dam",
+      "location": "Nagarjuna Sagar, Andhra Pradesh",
+      "state": "Andhra Pradesh",
+      "river": "Krishna",
+      "date_of_construction": "1967",
+      "height": "124 meters"
+    },
+    {
+      "name": "Hirakud Dam",
+      "location": "Sambalpur, Odisha",
+      "state": "Odisha",
+      "river": "Mahanadi",
+      "date_of_construction": "1957",
+      "height": "60 meters"
+    },
+    {
+      "name": "Rihand Dam",
+      "location": "Sonbhadra, Uttar Pradesh",
+      "state": "Uttar Pradesh",
+      "river": "Rihand",
+      "date_of_construction": "1962",
+      "height": "65 meters"
+    },
+    {
+      "name": "Krishna Raja Sagara Dam",
+      "location": "Mandya, Karnataka",
+      "state": "Karnataka",
+      "river": "Cauvery",
+      "date_of_construction": "1932",
+      "height": "39.6 meters"
+    },
+    {
+      "name": "Almatti Dam",
+      "location": "Bagalkot, Karnataka",
+      "state": "Karnataka",
+      "river": "Krishna",
+      "date_of_construction": "2005",
+      "height": "64 meters"
+    },
+    {
+      "name": "Mettur Dam",
+      "location": "Salem, Tamil Nadu",
+      "state": "Tamil Nadu",
+      "river": "Kaveri",
+      "date_of_construction": "1934",
+      "height": "120 meters"
+    },
+    {
+      "name": "Srisailam Dam",
+      "location": "Srisailam, Andhra Pradesh",
+      "state": "Andhra Pradesh",
+      "river": "Krishna",
+      "date_of_construction": "1981",
+      "height": "145 meters"
+    },
+    {
+      "name": "Koynanagar Dam",
+      "location": "Koynanagar, Maharashtra",
+      "state": "Maharashtra",
+      "river": "Koyna",
+      "date_of_construction": "1963",
+      "height": "103 meters"
+    },
+    {
+      "name": "Bansagar Dam",
+      "location": "Rewa, Madhya Pradesh",
+      "state": "Madhya Pradesh",
+      "river": "Sone",
+      "date_of_construction": "1978",
+      "height": "55 meters"
+    },
+    {
+      "name": "Wadhwana Dam",
+      "location": "Wadhwana, Gujarat",
+      "state": "Gujarat",
+      "river": "Narmada",
+      "date_of_construction": "1990",
+      "height": "14 meters"
+    },
+    {
+      "name": "Pong Dam",
+      "location": "Pong, Himachal Pradesh",
+      "state": "Himachal Pradesh",
+      "river": "Beas",
+      "date_of_construction": "1975",
+      "height": "88 meters"
+    },
+    {
+      "name": "Tungabhadra Dam",
+      "location": "Hospet, Karnataka",
+      "state": "Karnataka",
+      "river": "Tungabhadra",
+      "date_of_construction": "1953",
+      "height": "49.5 meters"
+    },
+    {
+      "name": "Mullaperiyar Dam",
+      "location": "Idukki, Kerala",
+      "state": "Kerala",
+      "river": "Periyar",
+      "date_of_construction": "1895",
+      "height": "53.6 meters"
+    },
+    {
+      "name": "Dhebar Lake Dam",
+      "location": "Rajasthan",
+      "state": "Rajasthan",
+      "river": "Mahi",
+      "date_of_construction": "1963",
+      "height": "39 meters"
+    },
+    {
+      "name": "Idukki Dam",
+      "location": "Idukki, Kerala",
+      "state": "Kerala",
+      "river": "Periyar",
+      "date_of_construction": "1976",
+      "height": "168.91 meters"
+    },
+    {
+      "name": "Ranjit Sagar Dam",
+      "location": "Pathankot, Punjab",
+      "state": "Punjab",
+      "river": "Chenab",
+      "date_of_construction": "2001",
+      "height": "113 meters"
+    }
+  ]
+}

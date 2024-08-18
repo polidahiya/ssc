@@ -1,0 +1,519 @@
+{
+  "terms": [
+    {
+      "term": "Back-stick",
+      "sport": "Hockey",
+      "definition": "A type of stick used in hockey for playing the ball or puck on the back side of the stick."
+    },
+    {
+      "term": "Bunt",
+      "sport": "Baseball/Softball",
+      "definition": "A technique where the batter lightly taps the ball instead of swinging at it to make contact."
+    },
+    {
+      "term": "Dunk",
+      "sport": "Basketball",
+      "definition": "A high-impact move where a player jumps and scores by putting the ball directly through the hoop with one or both hands."
+    },
+    {
+      "term": "Drop shot",
+      "sport": "Tennis/Badminton",
+      "definition": "A soft shot intended to land just over the net and make it difficult for the opponent to reach."
+    },
+    {
+      "term": "Hurdle",
+      "sport": "Track and Field",
+      "definition": "An obstacle that athletes must jump over during a race."
+    },
+    {
+      "term": "Goalie",
+      "sport": "Hockey/Soccer",
+      "definition": "The player positioned in the goal area who is responsible for preventing the ball or puck from entering the net."
+    },
+    {
+      "term": "Ace",
+      "sport": "Tennis/Volleyball",
+      "definition": "A serve that is so well-placed that the opponent cannot return it."
+    },
+    {
+      "term": "Gooch",
+      "sport": "Rowing",
+      "definition": "A term for a rower who has a strong finish but may not be as consistent throughout the race."
+    },
+    {
+      "term": "Layup",
+      "sport": "Basketball",
+      "definition": "A method of scoring by shooting the ball close to the basket, typically after a quick dribble or move."
+    },
+    {
+      "term": "Chirp",
+      "sport": "Hockey",
+      "definition": "A verbal taunt or trash talk used to distract or intimidate opponents."
+    },
+    {
+      "term": "Breakaway",
+      "sport": "Hockey/Soccer",
+      "definition": "When a player moves quickly past defenders to get a clear chance at scoring, often with minimal opposition."
+    },
+    {
+      "term": "Volley",
+      "sport": "Tennis/Volleyball",
+      "definition": "In tennis, hitting the ball before it bounces; in volleyball, hitting the ball in the air before it hits the ground."
+    },
+    {
+      "term": "Scrum",
+      "sport": "Rugby",
+      "definition": "A method of restarting play where players from each team bind together and push against each other to compete for the ball."
+    },
+    {
+      "term": "Pitch",
+      "sport": "Baseball/Softball",
+      "definition": "The act of throwing the ball towards the batter, or the area where the game is played."
+    },
+    {
+      "term": "Drop goal",
+      "sport": "Rugby",
+      "definition": "A method of scoring by dropping the ball and kicking it through the goalposts as it touches the ground."
+    },
+    {
+      "term": "Set",
+      "sport": "Tennis/Volleyball",
+      "definition": "In tennis, a series of games won by a player; in volleyball, a tactical move where a player positions the ball for a teammate to spike."
+    },
+    {
+      "term": "Tackle",
+      "sport": "Football/Soccer",
+      "definition": "The act of intercepting or challenging an opponent to gain possession of the ball."
+    },
+    {
+      "term": "Free kick",
+      "sport": "Soccer",
+      "definition": "A kick awarded to a team after a foul by the opposing team, taken from the spot where the foul occurred."
+    },
+    {
+      "term": "Stunt",
+      "sport": "Cheerleading",
+      "definition": "A routine where cheerleaders perform acrobatic moves, such as lifting or throwing a teammate into the air."
+    },
+    {
+      "term": "Slam dunk",
+      "sport": "Basketball",
+      "definition": "A powerful shot where the player jumps and thrusts the ball through the hoop with one or both hands."
+    },
+    {
+      "term": "Forehand",
+      "sport": "Tennis",
+      "definition": "A stroke where the player hits the ball with the front side of the racket."
+    },
+    {
+      "term": "Paddle",
+      "sport": "Canoeing/Kayaking",
+      "definition": "A tool used to propel a boat through water, consisting of a long handle with a blade at each end."
+    },
+    {
+      "term": "Snap",
+      "sport": "American Football",
+      "definition": "The action of passing the ball from the center to the quarterback to start a play."
+    },
+    {
+      "term": "Check",
+      "sport": "Ice Hockey",
+      "definition": "A defensive move where a player uses their body or stick to block an opponent’s movement or take the puck away."
+    },
+    {
+      "term": "Backstroke",
+      "sport": "Swimming",
+      "definition": "A swimming style where the swimmer lies on their back and uses an alternating arm and leg motion."
+    },
+    {
+      "term": "Gainer",
+      "sport": "Diving",
+      "definition": "A dive where the diver performs a somersault while moving forward."
+    },
+    {
+      "term": "Halfpipe",
+      "sport": "Skateboarding/Snowboarding",
+      "definition": "A U-shaped ramp used for performing tricks and aerial maneuvers."
+    },
+    {
+      "term": "Jab",
+      "sport": "Boxing",
+      "definition": "A quick, straight punch with the lead hand, often used to set up more powerful punches."
+    },
+    {
+      "term": "Scramble",
+      "sport": "Golf",
+      "definition": "A series of shots played to recover from a difficult position, often to save par."
+    },
+    {
+      "term": "Drift",
+      "sport": "Rally Racing",
+      "definition": "A driving technique where the driver intentionally oversteers, causing the car to slide sideways through a turn."
+    },
+    {
+      "term": "Knee-drop",
+      "sport": "Wrestling",
+      "definition": "A move where a wrestler drops to their knees to land on their opponent, often used in finishing moves."
+    },
+    {
+      "term": "Swim-up",
+      "sport": "Water Polo",
+      "definition": "A maneuver where a player moves from a defensive to an offensive position by swimming up."
+    },
+    {
+      "term": "Zipper",
+      "sport": "Rowing",
+      "definition": "A term used to describe a smooth and coordinated rowing stroke."
+    },
+    {
+      "term": "Feint",
+      "sport": "Fencing",
+      "definition": "A deceptive move used to trick an opponent into reacting, creating an opening for a real attack."
+    },
+    {
+      "term": "Pancake",
+      "sport": "Volleyball",
+      "definition": "A defensive move where a player flattens their hands and arms to make a dig."
+    },
+    {
+      "term": "Bully",
+      "sport": "Hockey",
+      "definition": "A tactic where a player uses their body to push an opponent off the puck or ball."
+    },
+    {
+      "term": "Glide",
+      "sport": "Speed Skating",
+      "definition": "A technique used to maintain speed and momentum while minimizing resistance on the ice."
+    },
+    {
+      "term": "Shin guard",
+      "sport": "Soccer",
+      "definition": "Protective gear worn on the lower legs to prevent injury from impacts."
+    },
+    {
+      "term": "Bend",
+      "sport": "Football",
+      "definition": "A technique used to curve the ball around a wall of defenders during a free kick."
+    },
+    {
+      "term": "Hitch",
+      "sport": "Track and Field",
+      "definition": "A brief pause or change in rhythm during a sprint, often used strategically in races."
+    },
+    {
+      "term": "Switch",
+      "sport": "Basketball",
+      "definition": "A defensive strategy where players exchange their defensive assignments during a screen."
+    },
+    {
+      "term": "Waggle",
+      "sport": "Golf",
+      "definition": "A small, repetitive motion made with the club before a swing to establish rhythm and relax the hands."
+    },
+    {
+      "term": "Deke",
+      "sport": "Hockey",
+      "definition": "A deceptive move used to trick an opponent and gain an advantage, such as faking a shot or pass."
+    },
+    {
+      "term": "Paddleboard",
+      "sport": "Paddleboarding",
+      "definition": "A board used for standing and paddling on water, typically on calm lakes or seas."
+    },
+    {
+      "term": "Powerplay",
+      "sport": "Hockey",
+      "definition": "A situation where one team has a numerical advantage due to an opponent’s penalty."
+    },
+    {
+      "term": "Counter",
+      "sport": "Martial Arts",
+      "definition": "A defensive move followed by an offensive attack, used to exploit an opponent’s openings."
+    },
+    {
+      "term": "Goal-line technology",
+      "sport": "Soccer",
+      "definition": "A system used to determine whether the ball has fully crossed the goal line, ensuring accurate goal decisions."
+    },
+    {
+      "term": "Carve",
+      "sport": "Snowboarding/Skiing",
+      "definition": "A technique where the rider or skier uses the edge of their board or skis to make clean, sharp turns."
+    },
+    {
+      "term": "Takedown",
+      "sport": "Wrestling/MMA",
+      "definition": "A move used to bring an opponent from a standing position to the ground."
+    },
+    {
+      "term": "Splash",
+      "sport": "Diving",
+      "definition": "The sound made when a diver enters the water, often used to describe an imperfect dive with excessive splash."
+    },
+    {
+      "term": "Backhand",
+      "sport": "Tennis",
+      "definition": "A stroke where the player hits the ball with the back of the racket facing them."
+    },
+    {
+      "term": "Bullseye",
+      "sport": "Archery/Darts",
+      "definition": "The center of the target, worth the highest score if hit."
+    },
+    {
+      "term": "Double",
+      "sport": "Golf",
+      "definition": "A term for scoring two strokes over par on a hole."
+    },
+    {
+      "term": "Powerlifting",
+      "sport": "Weightlifting",
+      "definition": "A strength sport focusing on three main lifts: squat, bench press, and deadlift."
+    },
+    {
+      "term": "Drop set",
+      "sport": "Weightlifting",
+      "definition": "A technique where a lifter performs a set of an exercise to failure, then immediately reduces the weight and continues the set."
+    },
+    {
+      "term": "Triple-Double",
+      "sport": "Basketball",
+      "definition": "A statistical achievement where a player records double digits in three statistical categories (e.g., points, rebounds, assists) in one game."
+    },
+    {
+      "term": "Hat Trick",
+      "sport": "Hockey/Soccer",
+      "definition": "Scoring three goals in a single game by one player."
+    },
+    {
+      "term": "Free Throw",
+      "sport": "Basketball",
+      "definition": "A penalty shot awarded to a player from the free-throw line, worth one point."
+    },
+    {
+      "term": "Par",
+      "sport": "Golf",
+      "definition": "The number of strokes an expert golfer is expected to take to complete a hole or course."
+    },
+    {
+      "term": "Overtime",
+      "sport": "General Sports",
+      "definition": "Additional time added to a game if it ends in a tie, to determine the winner."
+    },
+    {
+      "term": "No-hitter",
+      "sport": "Baseball",
+      "definition": "A game in which a pitcher prevents the opposing team from getting any hits."
+    },
+    {
+      "term": "Grand Slam",
+      "sport": "Tennis",
+      "definition": "Winning all four major tournaments in a single year: the Australian Open, French Open, Wimbledon, and the US Open."
+    },
+    {
+      "term": "Knockout",
+      "sport": "Boxing/MMA",
+      "definition": "A victory achieved when the opponent is rendered unconscious or unable to continue fighting."
+    },
+    {
+      "term": "Relay",
+      "sport": "Track and Field",
+      "definition": "A race where team members pass a baton to each other in a set sequence."
+    },
+    {
+      "term": "Penalty Kick",
+      "sport": "Soccer",
+      "definition": "A direct shot taken from a spot 12 yards from the goal, awarded after a foul within the penalty area."
+    },
+    {
+      "term": "Field Goal",
+      "sport": "Basketball/Football",
+      "definition": "A shot or kick made from the field to score points, typically worth two or three points in basketball or three points in football."
+    },
+    {
+      "term": "Spike",
+      "sport": "Volleyball",
+      "definition": "A forceful hit of the ball from above the net, aimed to score a point."
+    },
+    {
+      "term": "Double Play",
+      "sport": "Baseball",
+      "definition": "A defensive play where two offensive players are put out in one continuous action."
+    },
+    {
+      "term": "Gooch",
+      "sport": "Rowing",
+      "definition": "A term for a rower who has a strong finish but may not be as consistent throughout the race."
+    },
+    {
+      "term": "End Zone",
+      "sport": "American Football",
+      "definition": "The area at each end of the field where a touchdown is scored."
+    },
+    {
+      "term": "Breakaway",
+      "sport": "Cycling",
+      "definition": "A sudden, rapid move by a cyclist to escape the pack and gain a lead."
+    },
+    {
+      "term": "Checkmate",
+      "sport": "Chess",
+      "definition": "A position where the opponent’s king is in check and cannot escape, ending the game."
+    },
+    {
+      "term": "Tackle Box",
+      "sport": "Fishing",
+      "definition": "A container used for organizing fishing gear."
+    },
+    {
+      "term": "Double Fault",
+      "sport": "Tennis",
+      "definition": "When a player serves twice in a row incorrectly, resulting in the loss of the point."
+    },
+    {
+      "term": "Hook",
+      "sport": "Boxing",
+      "definition": "A punch delivered with a bent arm, targeting the side of the opponent’s head or body."
+    },
+    {
+      "term": "Pin",
+      "sport": "Bowling",
+      "definition": "A term for the upright targets that players aim to knock down with the bowling ball."
+    },
+    {
+      "term": "Diving",
+      "sport": "Diving",
+      "definition": "The act of jumping or falling into water, typically from a platform or springboard, with an emphasis on style and precision."
+    },
+    {
+      "term": "Halfpipe",
+      "sport": "Skateboarding/Snowboarding",
+      "definition": "A U-shaped ramp used for performing tricks and aerial maneuvers."
+    },
+    {
+      "term": "Jab",
+      "sport": "Boxing",
+      "definition": "A quick, straight punch with the lead hand, often used to set up more powerful punches."
+    },
+    {
+      "term": "Swim-up",
+      "sport": "Water Polo",
+      "definition": "A maneuver where a player moves from a defensive to an offensive position by swimming up."
+    },
+    {
+      "term": "Zipper",
+      "sport": "Rowing",
+      "definition": "A term used to describe a smooth and coordinated rowing stroke."
+    },
+    {
+      "term": "Feint",
+      "sport": "Fencing",
+      "definition": "A deceptive move used to trick an opponent into reacting, creating an opening for a real attack."
+    },
+    {
+      "term": "Pancake",
+      "sport": "Volleyball",
+      "definition": "A defensive move where a player flattens their hands and arms to make a dig."
+    },
+    {
+      "term": "Bully",
+      "sport": "Hockey",
+      "definition": "A tactic where a player uses their body to push an opponent off the puck or ball."
+    },
+    {
+      "term": "Glide",
+      "sport": "Speed Skating",
+      "definition": "A technique used to maintain speed and momentum while minimizing resistance on the ice."
+    },
+    {
+      "term": "Shin guard",
+      "sport": "Soccer",
+      "definition": "Protective gear worn on the lower legs to prevent injury from impacts."
+    },
+    {
+      "term": "Bend",
+      "sport": "Football",
+      "definition": "A technique used to curve the ball around a wall of defenders during a free kick."
+    },
+    {
+      "term": "Hitch",
+      "sport": "Track and Field",
+      "definition": "A brief pause or change in rhythm during a sprint, often used strategically in races."
+    },
+    {
+      "term": "Switch",
+      "sport": "Basketball",
+      "definition": "A defensive strategy where players exchange their defensive assignments during a screen."
+    },
+    {
+      "term": "Waggle",
+      "sport": "Golf",
+      "definition": "A small, repetitive motion made with the club before a swing to establish rhythm and relax the hands."
+    },
+    {
+      "term": "Deke",
+      "sport": "Hockey",
+      "definition": "A deceptive move used to trick an opponent and gain an advantage, such as faking a shot or pass."
+    },
+    {
+      "term": "Paddleboard",
+      "sport": "Paddleboarding",
+      "definition": "A board used for standing and paddling on water, typically on calm lakes or seas."
+    },
+    {
+      "term": "Powerplay",
+      "sport": "Hockey",
+      "definition": "A situation where one team has a numerical advantage due to an opponent’s penalty."
+    },
+    {
+      "term": "Counter",
+      "sport": "Martial Arts",
+      "definition": "A defensive move followed by an offensive attack, used to exploit an opponent’s openings."
+    },
+    {
+      "term": "Goal-line technology",
+      "sport": "Soccer",
+      "definition": "A system used to determine whether the ball has fully crossed the goal line, ensuring accurate goal decisions."
+    },
+    {
+      "term": "Carve",
+      "sport": "Snowboarding/Skiing",
+      "definition": "A technique where the rider or skier uses the edge of their board or skis to make clean, sharp turns."
+    },
+    {
+      "term": "Takedown",
+      "sport": "Wrestling/MMA",
+      "definition": "A move used to bring an opponent from a standing position to the ground."
+    },
+    {
+      "term": "Splash",
+      "sport": "Diving",
+      "definition": "The sound made when a diver enters the water, often used to describe an imperfect dive with excessive splash."
+    },
+    {
+      "term": "Backhand",
+      "sport": "Tennis",
+      "definition": "A stroke where the player hits the ball with the back of the racket facing them."
+    },
+    {
+      "term": "Bullseye",
+      "sport": "Archery/Darts",
+      "definition": "The center of the target, worth the highest score if hit."
+    },
+    {
+      "term": "Double",
+      "sport": "Golf",
+      "definition": "A term for scoring two strokes over par on a hole."
+    },
+    {
+      "term": "Powerlifting",
+      "sport": "Weightlifting",
+      "definition": "A strength sport focusing on three main lifts: squat, bench press, and deadlift."
+    },
+    {
+      "term": "Drop set",
+      "sport": "Weightlifting",
+      "definition": "A technique where a lifter performs a set of an exercise to failure, then immediately reduces the weight and continues the set."
+    }
+  ]
+}

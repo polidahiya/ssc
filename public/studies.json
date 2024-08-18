@@ -1,0 +1,364 @@
+{
+  "fields_of_study": [
+    {
+      "name": "Botany",
+      "description": "Study of plants"
+    },
+    {
+      "name": "Zoology",
+      "description": "Study of animals"
+    },
+    {
+      "name": "Astronomy",
+      "description": "Study of celestial bodies and the universe"
+    },
+    {
+      "name": "Chemistry",
+      "description": "Study of matter and its interactions"
+    },
+    {
+      "name": "Physics",
+      "description": "Study of matter, energy, and the fundamental forces of nature"
+    },
+    {
+      "name": "Geology",
+      "description": "Study of the Earth, its materials, and processes"
+    },
+    {
+      "name": "Psychology",
+      "description": "Study of the mind and behavior"
+    },
+    {
+      "name": "Sociology",
+      "description": "Study of society and social behavior"
+    },
+    {
+      "name": "Anthropology",
+      "description": "Study of humans, their ancestors, and related primates"
+    },
+    {
+      "name": "Economics",
+      "description": "Study of production, distribution, and consumption of goods and services"
+    },
+    {
+      "name": "Linguistics",
+      "description": "Study of language and its structure"
+    },
+    {
+      "name": "Political Science",
+      "description": "Study of politics, government, and policy"
+    },
+    {
+      "name": "Mathematics",
+      "description": "Study of numbers, quantities, shapes, and patterns"
+    },
+    {
+      "name": "Engineering",
+      "description": "Application of science and mathematics to solve problems and design systems"
+    },
+    {
+      "name": "Medicine",
+      "description": "Study of the diagnosis, treatment, and prevention of disease"
+    },
+    {
+      "name": "History",
+      "description": "Study of past events and their impact on the present"
+    },
+    {
+      "name": "Philosophy",
+      "description": "Study of fundamental questions about existence, knowledge, and ethics"
+    },
+    {
+      "name": "Architecture",
+      "description": "Study of designing and constructing buildings and other structures"
+    },
+    {
+      "name": "Environmental Science",
+      "description": "Study of the environment and solutions to environmental problems"
+    },
+    {
+      "name": "Education",
+      "description": "Study of teaching and learning processes"
+    },
+    {
+      "name": "Art History",
+      "description": "Study of visual arts and their historical development"
+    },
+    {
+      "name": "Theology",
+      "description": "Study of the divine, religion, and religious beliefs"
+    },
+    {
+      "name": "Ethics",
+      "description": "Study of moral principles and how they apply to behavior"
+    },
+    {
+      "name": "Business Administration",
+      "description": "Study of managing and operating businesses"
+    },
+    {
+      "name": "Cultural Studies",
+      "description": "Study of culture and its various aspects and manifestations"
+    },
+    {
+      "name": "Public Health",
+      "description": "Study of health and wellness on a population level"
+    },
+    {
+      "name": "Urban Studies",
+      "description": "Study of cities and urban life"
+    },
+    {
+      "name": "Veterinary Medicine",
+      "description": "Study of animal health and medical care"
+    },
+    {
+      "name": "Marine Biology",
+      "description": "Study of marine organisms and their environments"
+    },
+    {
+      "name": "Sports Science",
+      "description": "Study of physical exercise, sports, and athletic performance"
+    },
+    {
+      "name": "Performing Arts",
+      "description": "Study of live performance arts such as theater, dance, and music"
+    },
+    {
+      "name": "Library Science",
+      "description": "Study of managing and organizing information resources"
+    },
+    {
+      "name": "Criminology",
+      "description": "Study of crime, criminal behavior, and the justice system"
+    },
+    {
+      "name": "Fashion Design",
+      "description": "Study of designing and creating clothing and accessories"
+    },
+    {
+      "name": "Astronautical Engineering",
+      "description": "Study of the design and development of spacecraft and space missions"
+    },
+    {
+      "name": "Agricultural Science",
+      "description": "Study of farming, crop production, and soil management"
+    },
+    {
+      "name": "Horticulture",
+      "description": "Study of garden management and cultivation of plants"
+    },
+    {
+      "name": "Ethnography",
+      "description": "Study of cultures and communities through detailed observation"
+    },
+    {
+      "name": "Forensic Science",
+      "description": "Study of applying scientific principles to solve crimes"
+    },
+    {
+      "name": "Human Resources",
+      "description": "Study of managing and supporting an organization's workforce"
+    },
+    {
+      "name": "Developmental Psychology",
+      "description": "Study of psychological growth and change throughout the lifespan"
+    },
+    {
+      "name": "Nursing",
+      "description": "Study of patient care and the medical profession"
+    },
+    {
+      "name": "Renewable Energy",
+      "description": "Study of sustainable energy sources and technologies"
+    },
+    {
+      "name": "Data Science",
+      "description": "Study of extracting insights from large volumes of data"
+    },
+    {
+      "name": "Game Design",
+      "description": "Study of creating and designing video games"
+    },
+    {
+      "name": "International Relations",
+      "description": "Study of relationships between countries and global issues"
+    },
+    {
+      "name": "Public Administration",
+      "description": "Study of government and public sector management"
+    },
+    {
+      "name": "Cognitive Science",
+      "description": "Study of the mind and intelligent behavior, including perception, thinking, and learning"
+    },
+    {
+      "name": "Nanotechnology",
+      "description": "Study of manipulating matter on an atomic and molecular scale"
+    },
+    {
+      "name": "Logistics",
+      "description": "Study of managing the flow of goods and services"
+    },
+    {
+      "name": "Agronomy",
+      "description": "Study of soil management and crop production"
+    },
+    {
+      "name": "Hydrology",
+      "description": "Study of water and its movement, distribution, and quality"
+    },
+    {
+      "name": "Petroleum Engineering",
+      "description": "Study of the extraction and production of oil and gas"
+    },
+    {
+      "name": "Veterinary Science",
+      "description": "Study of animal health and medical care"
+    },
+    {
+      "name": "Human Anatomy",
+      "description": "Study of the structure and organization of the human body"
+    },
+    {
+      "name": "Clinical Psychology",
+      "description": "Study of diagnosing and treating mental, emotional, and behavioral disorders"
+    },
+    {
+      "name": "Actuarial Science",
+      "description": "Study of financial risks using mathematics and statistics"
+    },
+    {
+      "name": "Marine Engineering",
+      "description": "Study of the design and construction of ships and marine equipment"
+    },
+    {
+      "name": "Material Science",
+      "description": "Study of the properties and applications of materials"
+    },
+    {
+      "name": "Rehabilitation Science",
+      "description": "Study of the process of helping individuals recover from injuries or disabilities"
+    },
+    {
+      "name": "Music Theory",
+      "description": "Study of the structure and elements of music"
+    },
+    {
+      "name": "Quantitative Finance",
+      "description": "Study of financial markets and instruments using mathematical models"
+    },
+    {
+      "name": "Human-Computer Interaction",
+      "description": "Study of the interaction between people and computers"
+    },
+    {
+      "name": "Urban Planning",
+      "description": "Study of land use and the development of cities and towns"
+    },
+    {
+      "name": "Public Policy",
+      "description": "Study of the formulation and impact of government policies"
+    },
+    {
+      "name": "Emergency Management",
+      "description": "Study of preparing for and responding to emergencies and disasters"
+    },
+    {
+      "name": "Supply Chain Management",
+      "description": "Study of the flow of goods and services from production to consumption"
+    },
+    {
+      "name": "Biotechnology",
+      "description": "Study of using living organisms and systems to develop products and technologies"
+    },
+    {
+      "name": "Archaeology",
+      "description": "Study of human history and prehistory through excavation and analysis"
+    },
+    {
+      "name": "Digital Media",
+      "description": "Study of digital content creation and distribution"
+    },
+    {
+      "name": "Social Work",
+      "description": "Study of helping individuals and communities improve their well-being"
+    },
+    {
+      "name": "Design Engineering",
+      "description": "Study of designing and developing products and systems"
+    },
+    {
+      "name": "Nutritional Science",
+      "description": "Study of diet and its effects on health and disease"
+    },
+    {
+      "name": "Operations Research",
+      "description": "Study of optimizing complex systems and decision-making"
+    },
+    {
+      "name": "Human Genetics",
+      "description": "Study of inherited traits and genetic disorders"
+    },
+    {
+      "name": "Cultural Anthropology",
+      "description": "Study of cultural variations among humans"
+    },
+    {
+      "name": "Marine Ecology",
+      "description": "Study of marine ecosystems and the interactions within them"
+    },
+    {
+      "name": "Health Informatics",
+      "description": "Study of managing and analyzing health information"
+    },
+    {
+      "name": "Public Relations",
+      "description": "Study of managing communication between organizations and the public"
+    },
+    {
+      "name": "Space Science",
+      "description": "Study of space and the universe beyond Earth's atmosphere"
+    },
+    {
+      "name": "Geophysics",
+      "description": "Study of the Earth's physical properties and processes"
+    },
+    {
+      "name": "Toxicology",
+      "description": "Study of the effects of chemicals on living organisms"
+    },
+    {
+      "name": "Bioinformatics",
+      "description": "Study of using computational tools to analyze biological data"
+    },
+    {
+      "name": "Theater Arts",
+      "description": "Study of performance and production in theater"
+    },
+    {
+      "name": "Intellectual Property Law",
+      "description": "Study of legal rights related to inventions, designs, and creative works"
+    },
+    {
+      "name": "Clinical Research",
+      "description": "Study of testing new medical treatments and interventions"
+    },
+    {
+      "name": "Ethnomusicology",
+      "description": "Study of music in its cultural context"
+    },
+    {
+      "name": "Art Conservation",
+      "description": "Study of preserving and restoring artworks"
+    },
+    {
+      "name": "Educational Technology",
+      "description": "Study of using technology to enhance education and learning"
+    },
+    {
+      "name": "Kinesiology",
+      "description": "Study of human movement and physical activity"
+    }
+  ]
+}

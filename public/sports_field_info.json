@@ -1,0 +1,113 @@
+{
+    "games": [
+      {
+        "game": "Soccer (Football)",
+        "playground_dimension": "105 x 68 meters",
+        "number_of_players": "11 per team",
+        "instruments_used": "Football"
+      },
+      {
+        "game": "Cricket",
+        "playground_dimension": "20.12 meters (pitch), 66 to 75 meters (boundary)",
+        "number_of_players": "11 per team",
+        "instruments_used": "Cricket bat, cricket ball, wickets"
+      },
+      {
+        "game": "Basketball",
+        "playground_dimension": "28 x 15 meters",
+        "number_of_players": "5 per team",
+        "instruments_used": "Basketball, basketball hoop"
+      },
+      {
+        "game": "Hockey",
+        "playground_dimension": "91.4 x 55 meters",
+        "number_of_players": "11 per team",
+        "instruments_used": "Hockey stick, hockey ball"
+      },
+      {
+        "game": "Volleyball",
+        "playground_dimension": "18 x 9 meters",
+        "number_of_players": "6 per team",
+        "instruments_used": "Volleyball, net"
+      },
+      {
+        "game": "Tennis",
+        "playground_dimension": "23.77 x 8.23 meters (singles), 23.77 x 10.97 meters (doubles)",
+        "number_of_players": "1 (singles) or 2 (doubles) per side",
+        "instruments_used": "Tennis racket, tennis ball"
+      },
+      {
+        "game": "Badminton",
+        "playground_dimension": "13.4 x 6.1 meters (singles), 13.4 x 8.2 meters (doubles)",
+        "number_of_players": "1 (singles) or 2 (doubles) per side",
+        "instruments_used": "Badminton racket, shuttlecock"
+      },
+      {
+        "game": "Table Tennis",
+        "playground_dimension": "2.74 x 1.525 meters",
+        "number_of_players": "1 (singles) or 2 (doubles) per side",
+        "instruments_used": "Table tennis racket, table tennis ball"
+      },
+      {
+        "game": "Baseball",
+        "playground_dimension": "Base paths: 27.43 meters, outfield: varies",
+        "number_of_players": "9 per team",
+        "instruments_used": "Baseball bat, baseball, gloves"
+      },
+      {
+        "game": "Golf",
+        "playground_dimension": "Varies (18-hole course typically around 6,000 to 7,000 yards)",
+        "number_of_players": "1 (individual) or 2-4 (group)",
+        "instruments_used": "Golf clubs, golf ball"
+      },
+      {
+        "game": "Rugby",
+        "playground_dimension": "122 x 74 meters",
+        "number_of_players": "15 per team (Union), 13 per team (League)",
+        "instruments_used": "Rugby ball"
+      },
+      {
+        "game": "American Football",
+        "playground_dimension": "120 x 53.3 meters",
+        "number_of_players": "11 per team",
+        "instruments_used": "Football, helmets, pads"
+      },
+      {
+        "game": "Kabaddi",
+        "playground_dimension": "13 x 10 meters",
+        "number_of_players": "7 per team",
+        "instruments_used": "None (bare hands)"
+      },
+      {
+        "game": "Wrestling",
+        "playground_dimension": "9 x 9 meters (Olympic mat)",
+        "number_of_players": "1 (individual match)",
+        "instruments_used": "None (bare hands)"
+      },
+      {
+        "game": "Badminton",
+        "playground_dimension": "13.4 x 6.1 meters (singles), 13.4 x 8.2 meters (doubles)",
+        "number_of_players": "1 (singles) or 2 (doubles) per side",
+        "instruments_used": "Badminton racket, shuttlecock"
+      },
+      {
+        "game": "Ice Hockey",
+        "playground_dimension": "60 x 30 meters",
+        "number_of_players": "6 per team",
+        "instruments_used": "Ice hockey stick, puck"
+      },
+      {
+        "game": "Fencing",
+        "playground_dimension": "14 x 1.5 meters (strip)",
+        "number_of_players": "1 (individual match)",
+        "instruments_used": "Foil, épée, or sabre"
+      },
+      {
+        "game": "Archery",
+        "playground_dimension": "18 meters (target distance for indoor), 70 meters (for outdoor)",
+        "number_of_players": "1 (individual), or 2 (team event)",
+        "instruments_used": "Bow, arrows, target"
+      }
+    ]
+  }
+  
